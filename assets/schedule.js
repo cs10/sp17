@@ -4,7 +4,7 @@
  * Lecture: (title, '[slides folder]', '[video URL]', '[Guest Name]')
  * lab1:     (title, 'topic file path', [boolean -- Reading Quiz?], 'video link')
  * disc:    (title, [boolean -- Resources available?])
- * HW:      (title, TBD...)
+ * HW:      (title, due, submission, spec)
  * NOTE: These links are currently relative to the home page.
  */
 var lab      = cs10.newLabObject,
