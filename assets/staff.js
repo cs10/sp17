@@ -13,34 +13,6 @@ var DanGarcia = {
 
 // TAs
 
-
-var adamK = {
-    name: 'Head TA Adam Kuphaldt',
-    img: 'Fa16/AdamKuphaldt.jpg',
-    imgSrc: '../Fa16/AdamKuphaldt.jpg',
-    // img: 'Sp14/AdamKuphaldt.jpg',
-    // imgSrc: 'AdamKuphaldt.jpg',
-    bio: 'AdamBio',
-    email: 'adam@cs10.org',
-    web: 'https://linkedin.com/in/adam-kuphaldt-16a33768'
-};
-
-var rachelH = {
-    name: 'Head TA Rachel Huang',
-    img: 'Fa13/RachelHuang.jpg',
-    imgSrc: 'RachelHuang.jpg',
-    bio: 'RachelBio',
-    email: 'rachel@cs10.org'
-};
-
-var aranyU = {
-    name: 'TA Arany Uthayakumar',
-    img: 'Sp14/AranyUthayakumar.jpg',
-    imgSrc: 'AranyUthayakumar.jpg',
-    bio: 'AranyBio',
-    email: 'arany@cs10.org'
-};
-
 var carlosF = {
     name: 'TA Carlos Flores',
     img: 'Fa16/CarlosFlores.jpg',
@@ -73,13 +45,6 @@ var erikD = {
     email: 'erik@cs10.org'
 };
 
-var jannaG = {
-    name: 'TA Janna Golden',
-    img: 'Sp14/JannaGolden.jpg',
-    imgSrc: 'JannaGolden.jpg',
-    bio: 'JannaBio',
-    email: 'janna@cs10.org'
-};
 
 var jobelV = {
     name: 'TA Jobel Vecino',
@@ -99,21 +64,6 @@ var laraM = {
     email: 'lara@cs10.org'
 };
 
-var meghnaD = {
-    name: 'TA Meghna Dasgupta',
-    img: 'Fa16/MeghnaDasgupta.jpg',
-    imgSrc: '../Fa16/MeghnaDasgupta.jpg',
-    email: 'meghna@cs10.org'
-};
-
-var patrickO = {
-    name: 'TA Patrick O\'Halloran',
-    img: 'Fa16/PatrickOhalloran.jpg',
-    imgSrc: '../Fa16/PatrickOhalloran.jpg',
-    imgCrazy: '../small/PatrickOhalloranCrazy.jpg',
-    bio: 'PatrickBio',
-    email: 'patrick@cs10.org'
-};
 
 var stevenT = {
     name: 'TA Steven Traversi',
@@ -132,14 +82,6 @@ var yifatA = {
   bio: 'YifatBio',
   web: 'https://www.linkedin.com/in/yifat-amir-45633584',
   email: 'yifat@cs10.org'
-};
-
-var williamT = {
-  name: 'TA William Tang',
-  img: 'Fa16/WilliamTang.JPG',
-  imgSrc: '../Fa16/WilliamTang.JPG',
-  bio: 'WillBio',
-  email: 'william@cs10.org'
 };
 
 // Readers
@@ -182,8 +124,9 @@ var hectorA = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [ adamK, rachelH, aranyU, carlosF, christianL, erikD, jannaG, jobelV, laraM, lizzyS, meghnaD, patrickO, stevenT, williamT, yifatA ];
-var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
+var tas = [laraM, stevenT, carlosF, christianL, erikD, jobelV, lizzyS, yifatA ];
+// var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
+var readers = [];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same format.
