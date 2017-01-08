@@ -19,7 +19,8 @@ var carlosF = {
     bio: 'CarlosBio',
     imgSrc: '../Fa16/CarlosFlores.jpg',
     imgCrazy: '../small/CarlosFloresCrazy.jpg',
-    email: 'carlos@cs10.org'
+    email: 'carlos@cs10.org',
+    web: 'http://carlos.codes'
 };
 
 var christianL = {
