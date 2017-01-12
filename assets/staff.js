@@ -56,7 +56,7 @@ var jobelV = {
 };
 
 var laraM = {
-    name: 'TA Lara McConnaughey',
+    name: 'Head TA Lara McConnaughey',
     img: 'Su15/LaraMcConnaughey.jpg',
     imgSrc: 'LaraMcConnaughey.jpg',
     imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
@@ -67,7 +67,7 @@ var laraM = {
 
 
 var stevenT = {
-    name: 'TA Steven Traversi',
+    name: 'Head TA Steven Traversi',
     img: 'Sp14/StevenTraversi.jpg',
     imgSrc: 'StevenTraversi.jpg',
     imgCrazy: '../small/StevenTraversiCrazy.jpg',
