@@ -88,7 +88,7 @@ cs10.week2 = {
 //     hw: hw1
 };
 
-JAN 30 - FEB 3
+// JAN 30 - FEB 3
 cs10.week3 = {
 //     readings: [
 //         reading('The Story of Alan Turing &amp; His Machine',
@@ -116,11 +116,11 @@ cs10.week4 = {
 //         reading('What is an Algorithm (book excerpts)?',
 //                 bcourses('60735934')),
 //        reading('How Algorithms Shape Our World',
-//                 'http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world.html'),        
+//                 'http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world.html'),
 //         reading('Algorithms Are Great and All, But They Can Also Ruin Lives',
 //                 'http://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/'),
 //         reading('Hacker News Comments on "Algorithms Are Great and All..."',
-//                 'https://news.ycombinator.com/item?id=8630311'),        
+//                 'https://news.ycombinator.com/item?id=8630311'),
 //         reading('The 10 Algorithms That Dominate Our World',
 //                 'http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464',
 //                 'optional'),
@@ -140,7 +140,7 @@ cs10.week4 = {
 //     hw: hw2
 };
 
-// FEB 13 - 17 
+// FEB 13 - 17
 cs10.week5 = {
 //     readings: 'No Readings for this Week - Study for the Quest!',
 //     lect1: lect('Programming Paradigms', 'https://drive.google.com/drive/folders/0B7pxUEY76zATb1ZMRDFXN25oLVU?usp=sharing'),
@@ -254,7 +254,7 @@ cs10.week10 = {
 //             'BtB pg. 305-316',
 //             'https://drive.google.com/file/d/0B3vESj3HTRTkbVo1dTV5SUp4T0U/view?usp=sharing',
 //             'optional'
-//         )  
+//         )
 //     ],
 //     disc: disc('Midterm Review', true),
 //     lect1: lect('Procedures as Data - Higher Order Procedures', 'https://drive.google.com/drive/folders/0B7pxUEY76zATZ1JSUFZpYlQ5eFE?usp=sharing'
@@ -293,14 +293,14 @@ cs10.week11 = {
 cs10.week12 = {
 //     readings: [
 //         reading(
-//             'Why Python is a Great First Language', 
+//             'Why Python is a Great First Language',
 //             'http://blog.trinket.io/why-python/'),
 //         reading(
-//             'The GNU Manifesto Turns Thirty', 
-//             'http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty', 
+//             'The GNU Manifesto Turns Thirty',
+//             'http://www.newyorker.com/business/currency/the-gnu-manifesto-turns-thirty',
 //             'optional'),
 //         reading(
-//             'Python vs. COBOL (parody)', 
+//             'Python vs. COBOL (parody)',
 //             'https://medium.com/@oceankidbilly/python-vs-r-vs-cobol-which-is-best-for-data-science-7b2979c6a000',
 //             'optional')
 //     ],
@@ -322,7 +322,7 @@ cs10.week13 = {
 //     readings: [
 //         reading('Addicted to Apps', 'http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0'),
 //         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
-//     ],    
+//     ],
 //     disc: disc('The Internet'),
 //     lect1: lect('HCI', 'https://www.dropbox.com/s/wq8uys72ffupp14/CS10%20Fall%202016.pdf?dl=0', "Eric Paulos"),
 //     lect2: lect('The Internet', 'https://drive.google.com/drive/folders/0B7pxUEY76zATZmNCb2ZuVmJKVW8?usp=sharing'
@@ -360,7 +360,7 @@ cs10.week15 = {
 //         reading('BtB Chapter 6','http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf'),
 //         reading('Present Shock -- When Everything Happened Now', 'https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be'),
 //         reading('A Quantum Leap in Computing?', 'http://www.newyorker.com/tech/elements/a-quantum-leap-in-computing', 'optional')
-//     ],       
+//     ],
 //     disc: disc('Farewell! Recap and Feedback'),
 //     lab1: lab('Project Work Session', null, true),
 //     lect1: lect('Saving the World with Computing', 'https://drive.google.com/drive/folders/0B7pxUEY76zATcUQ4ZTFSNjREOHc?usp=sharing', "Kathy Yelick"
@@ -385,7 +385,7 @@ cs10.week16 = {
 
 // MAY 8 - 12
 cs10.week17 = {
-//     readings: 'No Reading.',    
+//     readings: 'No Reading.',
 //     lab1: lab('<br><br><div class="exam inner">Final Exam<br><br>Tuesday 12/13<br>7:00 - 10:00 PM<br>Pauley Ballroom</div>'),
 //     hw: 'Enjoy your Winter Break!'
 };
