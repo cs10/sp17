@@ -4,7 +4,7 @@ var cs10 = cs10 || {};
 cs10.startDate = '{{ site.startDate }}';
 cs10.endDate   = '{{ site.endDate }}';
 cs10.bCoursesID = '{{ site.bCourses }}';
-cs10.NUM_WEEKS_TO_RENDER = 17;
+cs10.NUM_WEEKS_TO_RENDER = 1;
 
 cs10.gradingScheme = {
     'A+': 485,
@@ -222,7 +222,7 @@ cs10.renderCell = function(cellType, data) {
     var render = Object.getOwnPropertyNames(cs10).filter(function(x) {
         var key = x.toLowerCase();
         console.log(cellType, x);
-        console.log(functionName, key.indexOf(functionName), 
+        console.log(functionName, key.indexOf(functionName),
                     functionNoNum, key.indexOf(functionNoNum));
         return  key.indexOf(functionName) === 0 || key.indexOf(functionNoNum) === 0;
     });
