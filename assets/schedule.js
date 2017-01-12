@@ -13,7 +13,7 @@ var lab      = cs10.newLabObject,
     lect     = cs10.newLectureObject,
     disc     = cs10.newDiscussionObject,
     hw       = cs10.newHomeworkObject,
-    startDate = new Date('08/20/2016'); // The SATURDAY before the first week of the calendar.
+    startDate = new Date('01/14/2017'); // The SATURDAY before the first week of the calendar.
 
 function docs(id) {
     return 'assign.html?//docs.google.com/document/d/' + id + '/pub';
@@ -64,7 +64,7 @@ cs10.week1 = {
 };
 
 // JAN 23 - 27
-// cs10.week2 = {
+cs10.week2 = {
 //     readings: [
 //         reading('Prof. Harvey\'s Intro to Abstraction',
 //                 docs('1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY')),
@@ -86,10 +86,10 @@ cs10.week1 = {
 //     lab2: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
 //     disc: disc('Anatomy of a Computer and the Power of Binary', true),
 //     hw: hw1
-// };
+};
 
-// JAN 30 - FEB 3
-// cs10.week3 = {
+JAN 30 - FEB 3
+cs10.week3 = {
 //     readings: [
 //         reading('The Story of Alan Turing &amp; His Machine',
 //                 'https://youtu.be/CQhrMmbiaM0'),
@@ -106,12 +106,12 @@ cs10.week1 = {
 //     lab2: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
 //     disc: disc('All about lists', true),
 //     hw: hw2
-// };
+};
 // cs10.week3.lect3.classes = 'exam';
 // cs10.week3.work.title += '<hr><strong>Finch Robots Lab (Sect 111)</strong>';
 
 // FEB 6 - 10
-// cs10.week4 = {
+cs10.week4 = {
 //     readings: [
 //         reading('What is an Algorithm (book excerpts)?',
 //                 bcourses('60735934')),
@@ -138,10 +138,10 @@ cs10.week1 = {
 //     lab2: lab('Algorithmic Complexity', 'berkeley_bjc/areas/algorithm-complexity.topic'),
 //     disc: disc('Quest Review', true),
 //     hw: hw2
-// };
+};
 
 // FEB 13 - 17 
-// cs10.week5 = {
+cs10.week5 = {
 //     readings: 'No Readings for this Week - Study for the Quest!',
 //     lect1: lect('Programming Paradigms', 'https://drive.google.com/drive/folders/0B7pxUEY76zATb1ZMRDFXN25oLVU?usp=sharing'),
 //     lab1: lab('Quest Review'),
@@ -150,12 +150,12 @@ cs10.week1 = {
 //     lab2: lab('Testing, HW3', 'berkeley_bjc/2048-testing/2048.topic'),
 //     disc: disc('Quest Debrief and HW3 Introduction'),
 //     hw: hw3
-// };
+};
 
 // cs10.week5.lect2.classes = 'exam';
 
 // FEB 20 - 24
-// cs10.week6 = {
+cs10.week6 = {
 //     readings: [
 //         reading('BtB Chapter 5',
 //         'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf'),
@@ -174,10 +174,10 @@ cs10.week1 = {
 //     //lab2: lab('Trees and Fractals Using Recursion', 'berkeley_bjc/recur/recursion-trees-fractals.topic'),
 //     disc: disc('Concurrency and Mutability', true),
 //     hw: hw3
-// };
+};
 
 // FEB 27 - MAR 3
-// cs10.week7 = {
+cs10.week7 = {
 //     readings: [
 //         reading('The End of Moore\'s Law',
 //                 'http://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0'),
@@ -194,10 +194,10 @@ cs10.week1 = {
 //     lab2: lab('Midterm Project Work Session'),
 //     disc: disc('AI and Social Implications'),
 //     hw: [hw3, mProposal]
-// };
+};
 
 // MAR 6 - 10
-// cs10.week8 = {
+cs10.week8 = {
 //     readings: [
 //         reading('BtB chapter 2, pg. 19-29, 36-42',
 //                 'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf'),
@@ -214,10 +214,10 @@ cs10.week1 = {
 //     lab2: lab('Midterm Project Work Session'),
 //     disc: disc('Recursion', true),
 //     hw: mMilestone
-// };
+};
 
 // MAR 13 - 17
-// cs10.week9 = {
+cs10.week9 = {
 //     readings: [
 //         reading('As We May Think',
 //                 'http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/')
@@ -235,11 +235,11 @@ cs10.week1 = {
 //     ),
 //     //lab2: lab('Project Work Session'),
 //     hw: mProject
-// };
+};
 
 
 // MAR 20 - 24
-// cs10.week10 = {
+cs10.week10 = {
 //     readings: [
 //         reading('TED: What is the Internet?',
 //                 'https://www.ted.com/talks/andrew_blum_what_is_the_internet_really?language=en'),
@@ -269,10 +269,10 @@ cs10.week1 = {
 //     lab1: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic', true),
 //     lab2: lab('Besides Blocks: Welcome to Python', 'berkeley_bjc/python/besides-blocks-welcome.topic'),
 //     hw: 'No homework - Study for the Midterm Exam!'
-// };
+};
 
 // MAR 27 - 31
-// cs10.week11 = {
+cs10.week11 = {
 //     readings: 'No Readings for this Week - Study for the Midterm!',
 //     disc: disc('Midterm Debrief'),
 //     lect1: lect('<br><br><div class="exam inner">Midterm Exam Part I</a><br><br>Monday 10/31<br>Pauley Ballroom</div>'
@@ -283,14 +283,14 @@ cs10.week1 = {
 //     lab1: lab('Online <span class="snap">snap</span> Midterm'),
 //     lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
 //     hw: 'Start Thinking about Explore Post'
-// };
+};
 
 // cs10.week11.lect1.classes = 'exam';
 // cs10.week11.lect2.classes = 'exam';
 
 
 // APR 3 - 7
-// cs10.week12 = {
+cs10.week12 = {
 //     readings: [
 //         reading(
 //             'Why Python is a Great First Language', 
@@ -315,10 +315,10 @@ cs10.week1 = {
 //     lab1: lab('Besides Blocks: Data Structures in Python', 'berkeley_bjc/python/besides-blocks-data-struct.topic', true),
 //     lab2: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
 //     hw: [explorePost, explorePostDoc]
-// };
+};
 
 // APR 10 - 14
-// cs10.week13 = {
+cs10.week13 = {
 //     readings: [
 //         reading('Addicted to Apps', 'http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0'),
 //         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
@@ -332,11 +332,11 @@ cs10.week1 = {
 //     lab1: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
 //     lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
 //     hw: [exploreComments, fProposal]
-// };
+};
 
 
 // APR 17 - 21
-// cs10.week14 = {
+cs10.week14 = {
 //     readings: [
 //         reading('A World Without Work', 'http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/'),
 //         reading('Gladwell vs. Shirky: A Year Later, Scoring the Debate Over Social-Media Revolutions', 'http://www.wired.com/2011/12/gladwell-vs-shirky/'),
@@ -352,10 +352,10 @@ cs10.week1 = {
 //     ),
 //     lab2: lab('No Lab - Enjoy your Thanksgiving Break!'),
 //     hw: fMilestone
-// };
+};
 
 // APR 24 - 28
-// cs10.week15 = {
+cs10.week15 = {
 //     readings: [
 //         reading('BtB Chapter 6','http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf'),
 //         reading('Present Shock -- When Everything Happened Now', 'https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be'),
@@ -373,22 +373,22 @@ cs10.week1 = {
 //     ),
 //     lab2: lab('In-Lab Final Exam'),
 //     hw: fProject
-// };
+};
 
 // DEAD WEEK
 // MAY 1 - 5
-// cs10.week16 = {
+cs10.week16 = {
 //     special: 'RRR Week -- No Class',
 //     readings: 'No Reading.',
 //     hw: 'Study for the Final'
-// };
+};
 
 // MAY 8 - 12
-// cs10.week17 = {
+cs10.week17 = {
 //     readings: 'No Reading.',    
 //     lab1: lab('<br><br><div class="exam inner">Final Exam<br><br>Tuesday 12/13<br>7:00 - 10:00 PM<br>Pauley Ballroom</div>'),
 //     hw: 'Enjoy your Winter Break!'
-// };
+};
 // cs10.week17.lab1.classes = 'exam';
 
 
