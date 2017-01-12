@@ -125,7 +125,7 @@ var hectorA = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [laraM, stevenT, carlosF, christianL, erikD, jobelV, lizzyS, yifatA ];
+var tas = [laraM, stevenT];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 var readers = [];
 
