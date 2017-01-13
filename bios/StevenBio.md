@@ -25,10 +25,7 @@ Check out some things I did at www.steven.codes
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
 
-* CS 168 (Networking)
-* CS 194-26 (Computational Photography)
-* VS 265 (Neural Computation)
-* TBD (brought to you by CalCentral)
+* CS 184 (Graphics)
+* Music 29
 * Packd (find out how busy campus locations are)
-* CS10 - teaching - labs - LA coordinator
-* excellence
+* CS10 - teaching - Head TA
