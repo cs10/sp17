@@ -13,6 +13,12 @@ var DanGarcia = {
 
 // TAs
 
+ var addisonH = {
+    name: 'TA Addison Howe',
+    img: 'Fa16/AddisonHowe.JPG',
+    imgSrc: '../Sp17/AddisonHowe.jpg',
+    };
+
 var carlosF = {
     name: 'TA Carlos Flores',
     img: 'Fa16/CarlosFlores.jpg',
@@ -57,19 +63,24 @@ var jobelV = {
 
 var laraM = {
     name: 'Head TA Lara McConnaughey',
-    img: 'Sp17/LaraMcConnaughey.jpg',
-    imgSrc: 'LaraMcConnaughey.jpg',
+    img: 'LaraMcConnaughey.jpg',
+    imgSrc: '../Sp17/LaraMcConnaughey.jpg',
     imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
     web: 'https://www.linkedin.com/in/lara-mcconnaughey-4a834173',
     bio: 'LaraBio',
     email: 'lara@cs10.org'
 };
 
+var patriciaX = {
+    name: 'TA Patricia Xiao',
+    img: 'NPY3D.jpg',
+    imgSrc: 'NPY3D.jpg',
+};
 
 var stevenT = {
     name: 'Head TA Steven Traversi',
     img: 'Sp17/StevenTraversi.jpg',
-    imgSrc: 'StevenTraversi.jpg',
+    imgSrc: '../Sp17/StevenTraversi.jpg',
     imgCrazy: '../small/StevenTraversiCrazy.jpg',
     web: 'http://steven.codes',
     bio: 'StevenBio',
@@ -87,11 +98,6 @@ var yifatA = {
 
 // Readers
 
-var addisonH = {
-    name: 'Reader Addison Howe',
-    img: 'Fa16/AddisonHowe.JPG',
-    imgSrc: '../Fa16/AddisonHowe.JPG',
-};
 
 var samuelS = {
     name: 'Reader Samuel Starks',
@@ -107,7 +113,7 @@ var matthewS = {
 
 var noahJ = {
     name: 'Reader Noah Jacobs',
-    imgSrc: '../Fa16/NoahJacobs.jpg',
+    imgSrc: '../Sp17/NoahJacobs.jpg',
     img: 'Fa16/NoahJacobs.jpg',
 };
 
@@ -119,19 +125,145 @@ var hectorA = {
 };
 
 
+// Lab Assistants
 
+ var amyL = {
+    name: 'LA Amy Lee',
+    imgSrc: '../Sp17/las/AmyLee.jpg',
+    img: '../Sp17/las/AmyLee.jpg',
+
+ };
+
+var andresG = {
+    name: 'LA Andres Gonzalez',
+    imgSrc: '../Sp17/las/AndresGonzalez.jpg',
+    img: 'AndresGonzalez.jpg',
+};
+
+var angelaW = {
+    name: 'LA Angela Wong',
+    imgSrc: '../Sp17/las/AngelaWong.jpg',
+    img: 'AngelaWong.jpg',
+};
+
+var aprillaJ = {
+    name: 'LA Aprillia Judokusumo',
+    imgSrc: '../Sp17/las/AprilliaJudokusumo.jpg',
+    img: 'AprilliaJudokusumo.jpg',
+};
+
+var arvindN = {
+    name: 'LA Arvind Nandakumar',
+    imgSrc: '../Sp17/las/ArvindNandakumar.jpg',
+    img: 'ArvindNandakumar.jpg',
+};
+
+var bardiaB = {
+    name: 'LA Angela Wong',
+    imgSrc: '../Sp17/las/BardiaBarahman.jpg',
+    img: 'BardiaBarahman.jpg',
+};
+
+ var batoolN = {
+    name: 'LA Batool Naqvi',
+    imgSrc: '../Sp17/las/BatoolNaqvi.jpg',
+    img: 'BatoolNaqvi.jpg',
+
+ };
+
+var bhumikaG = {
+    name: 'LA Bhumika Goel',
+    imgSrc: '../Sp17/las/BhumikaGoel.jpg',
+    img: 'BhumikaGoel.jpg',
+};
+
+var calvinP = {
+    name: 'LA Calvin Price',
+    imgSrc: '../Sp17/las/CalvinPrice.jpg',
+    img: 'CalvinPrice.jpg',
+};
+
+var gabrielV = {
+    name: 'LA Gabriel Venditti',
+    imgSrc: '../Sp17/las/GabrielVenditti.jpg',
+    img: 'GabrielVenditti.jpg',
+};
+
+var hannahV = {
+    name: 'LA Hannah Verdonk',
+    imgSrc: '../Sp17/las/HannahVerdonk.jpg',
+    img: 'HannahVerdonk.jpg',
+};
+
+ var jingjingJ = {
+    name: 'LA JingJing Jia',
+    imgSrc: '../Sp17/las/JingJingJia.jpg',
+    img: 'JingJingJia.jpg',
+
+ };
+
+var jocelynS = {
+    name: 'LA Jocelyn Sun',
+    imgSrc: '../Sp17/las/JocelynSun.jpg',
+    img: 'JocelynSun.jpg',
+};
+
+ var leonorG = {
+    name: 'LA Leonor Guzman',
+    imgSrc: '../Sp17/las/LeonorGuzman.jpg',
+    img: 'LeonorGuzman.jpg',
+
+ };
+
+var lyricY = {
+    name: 'LA Lyric Yu',
+    imgSrc: '../Sp17/las/LyricYu.jpg',
+    img: 'LyricYu.jpg',
+};
+
+var maxY = {
+    name: 'LA Max Yao',
+    imgSrc: '../Sp17/las/MaxYao.jpg',
+    img: 'MaxYao.jpg',
+};
+
+var michelleC = {
+    name: 'LA Michelle Chan',
+    imgSrc: '../Sp17/las/MichelleChan.jpg',
+    img: 'MichelleChan.jpg',
+};
+
+var rafaelF = {
+    name: 'LA Rafael Félix',
+    imgSrc: '../Sp17/las/RafaelFelix.jpg',
+    img: 'RafaelFelix.jpg',
+};
+
+ var vardaS = {
+    name: 'LA Varda Shrivastava',
+    imgSrc: '../Sp17/las/VardaShrivastava.jpg',
+    img: 'VardaShrivastava.jpg',
+
+ };
+
+ var veraG = {
+    name: 'LA Vera Gold',
+    imgSrc: '../Sp17/las/VeraGold.jpg',
+    img: 'VeraGold.jpg',
+
+ };
 /*****************************************************************************/
 /** LIST DEFINITIONS **/
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [laraM, stevenT];
+var tas = [laraM, stevenT, addisonH, erikD, jobelV, lizzyS, patriciaX, yifatA];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
-var readers = [];
-var las = [];
+var readers = [hectorA, matthewS, noahJ];
+var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorG, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
 
 // If you need to add a new SECTION add it to this object.
-// Follow the same format.
+// Follow the same formt.
 var all = {
     readers: readers,
     tas: tas,
@@ -257,5 +389,6 @@ function normalImage(image, normalPath) {
 /* more code to run on page load */
 // Parameters: a section (HTML 'id') and num of images per row.
 buildGroup('inst', 5);
-buildGroup('tas', 5);
+buildGroup('tas', 4);
 buildGroup('readers', 5);
+buildGroup('las', 5);
