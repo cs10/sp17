@@ -128,13 +128,15 @@ var inst = [ DanGarcia ];
 var tas = [laraM, stevenT];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 var readers = [];
+var las = [];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same format.
 var all = {
     readers: readers,
     tas: tas,
-    inst: inst
+    inst: inst,
+    las: las
 };
 
 /*****************************************************************************/
