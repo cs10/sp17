@@ -6,7 +6,7 @@ layout: default
 
 I was born in Tel Aviv, Israel. My parents and I moved to San
 Jose, CA, when I was about three years old. I grew up in San
-Jose and came to Cal in 2013!
+Jose and came to Cal in 2013! 
 
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
 
@@ -16,13 +16,13 @@ science. Since then, I switched over to the CS major and have
 taken some more CS courses. For the most part, I’ve worked with
 Snap!, python, java, C, and Groovy. I think it’s fun to learn
 new programming languages—in many ways it is not too different
-from learning new spoken languages! Recently I’ve been learning
-a new language called Golang.
+from learning new spoken languages! It's all about expressing 
+the same things but in different ways. 
 
 ## WHAT ARE YOUR HOBBIES?
 
 I enjoy yoga and hiking and traveling and camping and dancing
-and cooking and friendship.
+and my little sister and cooking and friendship.
 
 ## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
 
@@ -33,13 +33,8 @@ visit occasionally.
 
 ## HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
 
-I’ve been stung by a jellyfish! Though not my proudest moment… Also,
-I’ve registered for the Berkeley Half Marathon this coming November,
-so hopefully at the end of the semester I’ll be able to say that I
-have ran a 13.1 mile race! [I guess now that it’s on the internet I
-can’t back out, oops]
+I ran my first half marathon last semester! #BerkeleyHalf2016
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
 
-Classes, teaching CS10, training for the Berkeley Half Marathon, and
-enjoying my final year at UC Berkeley!
+Machine Learning, Discrete Optimization, Wealth and Poverty, African Music Ensemble, teaching CS10, applying for the 5th year masters program, yoga PE, and enjoying my final semester at UC Berkeley (as an undergrad, at least)!
