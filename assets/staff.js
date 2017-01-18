@@ -57,7 +57,7 @@ var jobelV = {
 
 var laraM = {
     name: 'Head TA Lara McConnaughey',
-    img: 'Su15/LaraMcConnaughey.jpg',
+    img: 'Sp17/LaraMcConnaughey.jpg',
     imgSrc: 'LaraMcConnaughey.jpg',
     imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
     web: 'https://www.linkedin.com/in/lara-mcconnaughey-4a834173',
@@ -68,7 +68,7 @@ var laraM = {
 
 var stevenT = {
     name: 'Head TA Steven Traversi',
-    img: 'Sp14/StevenTraversi.jpg',
+    img: 'Sp17/StevenTraversi.jpg',
     imgSrc: 'StevenTraversi.jpg',
     imgCrazy: '../small/StevenTraversiCrazy.jpg',
     web: 'http://steven.codes',
