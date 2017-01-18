@@ -32,7 +32,7 @@ var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
     exploreSpec     = docs('13X3zh24-JIFVs8p7X8iBRxrSMdiZELIyZ82d__xGSds')
     finalProjSpec   = docs('1czO__vPK5sdLOZp5apqXyM6FCGQw7fESisCRM__9Wis')
     hw0             = hw('HW0', '1/21', 'quizzes/2266425')
-    hw1             = hw('HW1: Word Guessing', '9/5', 'assignments/7768716', hw1Spec)
+    hw1             = hw('HW1: Word Guessing', '2/1', 'assignments/7768716', hw1Spec)
     hw2             = hw('HW2: Encryptify', '9/16', 'assignments/7768717', hw2Spec)
     hw3             = hw('HW3: 2048','10/7', 'assignments/7768718', hw3Spec)
     mProposal       = hw('Midterm Project Proposals', '10/7', 'assignments/7768721', mtProjSpec)
@@ -55,7 +55,7 @@ cs10.week1 = {
     lect1: lect('No Lecture Monday - Enjoy MLK day!'),
     lab1: lab("Welcome to <span class='snap'>snap</span>", "berkeley_bjc/intro_pair/1-introduction.topic"),
     lect2: lect('Welcome and Abstraction'
-        //,'https://drive.google.com/folderview?id=0B4KuCtIkhB7QMF8yelBVYnNRd0U&usp=sharing'
+        ,'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'
         //lectureURL('1T9abQi3qjhWi4ws0pADRiYBkpP-lvs5TKyokVPJWUFU')
     ),
     lab2: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
@@ -76,15 +76,15 @@ cs10.week2 = {
                 bcourses('59744796'),
                 'optional')
     ],
-    lect1: lect('Building Blocks', 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
-            //lectureURL('12LLM36NEfkylUsy9mG-1TnvorovQbYxhUDI_cMSzDuU')
+    lect1: lect('Building Blocks'
+      //, 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
     ),
     lab1: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
-    lect2: lect('Numbers and Abstraction', 'https://drive.google.com/folderview?id=0B7pxUEY76zATRGxuRkVCOFlNWWs&usp=sharing'
-            //lectureURL('1TVXERNz4ude_YYsPccwwirFWxXQXSs2ex-cccHytfzo')
+    lect2: lect('Numbers and Abstraction'
+      //, 'https://drive.google.com/folderview?id=0B7pxUEY76zATRGxuRkVCOFlNWWs&usp=sharing'
     ),
     lab2: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
-    disc: disc('Anatomy of a Computer and the Power of Binary', true),
+    disc: disc('Anatomy of a Computer and the Power of Binary'),
     hw: hw1
 };
 
