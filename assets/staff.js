@@ -71,6 +71,12 @@ var laraM = {
     email: 'lara@cs10.org'
 };
 
+var mansiS = {
+    name: 'TA Mansi Shah',
+    img: 'MansiShah.jpg',
+    imgSrc: '../Sp17/MansiShah.jpg',
+};
+
 var patriciaX = {
     name: 'TA Patricia Xiao',
     img: 'NPY3D.jpg',
@@ -257,7 +263,7 @@ var rafaelF = {
 /*****************************************************************************/
 
 var inst = [ DanGarcia ];
-var tas = [laraM, stevenT, addisonH, erikD, jobelV, lizzyS, patriciaX, yifatA];
+var tas = [laraM, stevenT, addisonH, erikD, jobelV, lizzyS, mansiS, patriciaX, yifatA];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 var readers = [hectorA, matthewS, noahJ];
 var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorG, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
