@@ -165,7 +165,7 @@ var arvindN = {
 };
 
 var bardiaB = {
-    name: 'LA Angela Wong',
+    name: 'LA Bardia Barahman',
     imgSrc: '../Sp17/las/BardiaBarahman.jpg',
     img: 'BardiaBarahman.jpg',
 };
