@@ -16,7 +16,7 @@ var DanGarcia = {
  var addisonH = {
     name: 'TA Addison Howe',
     img: 'Fa16/AddisonHowe.JPG',
-    email: 'addi.howe@berkeley.edu',
+    email: 'addison@cs10.org',
     imgSrc: '../Sp17/AddisonHowe.jpg',
     };
 
