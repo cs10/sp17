@@ -215,8 +215,8 @@ var jocelynS = {
     img: 'JocelynSun.jpg',
 };
 
- var leonorG = {
-    name: 'LA Leonor Guzman',
+ var leonorA = {
+    name: 'LA Leonor Alcaraz',
     imgSrc: '../Sp17/las/LeonorGuzman.jpg',
     img: 'LeonorGuzman.jpg',
 
@@ -267,7 +267,7 @@ var inst = [ DanGarcia ];
 var tas = [laraM, stevenT, addisonH, erikD, jobelV, lizzyS, mansiS, patriciaX, yifatA];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 var readers = [hectorA, matthewS, noahJ];
-var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorG, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
+var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
