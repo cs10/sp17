@@ -76,7 +76,7 @@ var mansiS = {
     name: 'TA Mansi Shah',
     img: 'MansiShah.jpg',
     imgSrc: '../Sp17/MansiShah.jpg',
-    email: 'emansishah@berkeley.edu',
+    email: 'mansi@cs10.org',
     bio: 'MansiBio'
 };
 
@@ -84,7 +84,7 @@ var patriciaX = {
     name: 'TA Patricia Xiao',
     img: 'NPY3D.jpg',
     imgSrc: 'NPY3D.jpg',
-    email: 'patricia.xiao@berkeley.edu',
+    email: 'patricia@cs10.org',
     bio: 'PatriciaBio',
 };
 
