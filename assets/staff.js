@@ -75,13 +75,14 @@ var mansiS = {
     name: 'TA Mansi Shah',
     img: 'MansiShah.jpg',
     imgSrc: '../Sp17/MansiShah.jpg',
-    bio: 'MansiBio',
+    bio: 'MansiBio'
 };
 
 var patriciaX = {
     name: 'TA Patricia Xiao',
     img: 'NPY3D.jpg',
     imgSrc: 'NPY3D.jpg',
+    bio: 'PatriciaBio',
 };
 
 var stevenT = {
