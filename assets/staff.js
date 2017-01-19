@@ -75,6 +75,7 @@ var mansiS = {
     name: 'TA Mansi Shah',
     img: 'MansiShah.jpg',
     imgSrc: '../Sp17/MansiShah.jpg',
+    bio: 'MansiBio',
 };
 
 var patriciaX = {
