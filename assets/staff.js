@@ -16,6 +16,7 @@ var DanGarcia = {
  var addisonH = {
     name: 'TA Addison Howe',
     img: 'Fa16/AddisonHowe.JPG',
+    email: 'addi.howe@berkeley.edu',
     imgSrc: '../Sp17/AddisonHowe.jpg',
     };
 
@@ -75,6 +76,7 @@ var mansiS = {
     name: 'TA Mansi Shah',
     img: 'MansiShah.jpg',
     imgSrc: '../Sp17/MansiShah.jpg',
+    email: 'emansishah@berkeley.edu',
     bio: 'MansiBio'
 };
 
@@ -82,6 +84,7 @@ var patriciaX = {
     name: 'TA Patricia Xiao',
     img: 'NPY3D.jpg',
     imgSrc: 'NPY3D.jpg',
+    email: 'patricia.xiao@berkeley.edu',
     bio: 'PatriciaBio',
 };
 
