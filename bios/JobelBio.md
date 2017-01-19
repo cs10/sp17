@@ -22,19 +22,18 @@ C++.
 
 ## WHAT ARE YOUR HOBBIES?
 
-Recently I have been watching a lot more college football, and spent a lot
-of my summer player NCAA Football. I love good television -- I grew up on Star
-Trek: The Next Generation (which subsequently indoctrinated me with a humanist
-disposition), and enjoy fantasy, science fiction, and drama. I used to write
-a lot of poetry and some short fiction, which I lost the knack for when I
-entered college. Recently I am trying to get back into a groove with that.
+Recently I have been watching a lot more college football. I love good television 
+-- I grew up on StarTrek: The Next Generation (which subsequently indoctrinated 
+me with a humanist disposition), and enjoy fantasy, science fiction, and drama. I 
+used to write a lot of poetry and some short fiction, which I lost the knack for 
+when I entered college. Recently I am trying to get back into a groove with that.
 When I am at home and I am stressed I break out my electric guitar and play
-(poorly).
+(poorly). I also love discussing politics and philosophy.
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
 
-This semester, I am taking Artificial Intelligence, Efficient Algorithms and
-Intractable Problems, Contemporary Literature, Introductory Chinese, and
-Introduction to Short Fiction Writing. Other than that, I am working on some
-personal projects I am not yet ready to divulge (mainly because I want to
-actually get somewhere with them before I claim them as my idea).
+This semester, I am taking Operating Systems, Human Reproduction, and Conflict
+Management. I am also working as a student assistant at the Center for Long-Term
+Cybersecurity. I am currently working on a paper on Brexit and its possible effects
+on EU cybersecurity policy and am busy trying to figure out what I'm writing for a
+senior thesis. 
