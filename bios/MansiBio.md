@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 ## WHERE DID YOU GROW UP? WHAT WAS YOUR PATH TO CAL?
 
 I grew up in Fremont, California (the last stop on Bart)! I knew I wanted to stay local for college, so Cal ended up being a great choice for me.
