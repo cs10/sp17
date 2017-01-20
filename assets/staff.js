@@ -90,7 +90,7 @@ var patriciaX = {
 };
 
 var stevenT = {
-    name: 'Head TA Steven (Dan) Traversi',
+    name: 'Head TA Steven Traversi',
     img: 'Sp17/StevenTraversi.jpg',
     imgSrc: '../Sp17/StevenTraversi.jpg',
     imgCrazy: '../small/StevenTraversiCrazy.jpg',
