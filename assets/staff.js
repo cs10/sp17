@@ -102,6 +102,7 @@ var yifatA = {
   name: 'TA Yifat Amir',
   img: 'Fa16/YifatAmir.JPG',
   imgSrc: '../Fa16/YifatAmir.JPG',
+  imgCrazy: '../small/YifatAmirCrazy.jpg',
   bio: 'YifatBio',
   web: 'https://www.linkedin.com/in/yifat-amir-45633584',
   email: 'yifat@cs10.org'
