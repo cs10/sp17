@@ -50,6 +50,7 @@ var erikD = {
     name: 'TA Erik Dahlquist',
     img: 'Sp15/ErikDahlquist.jpg',
     imgSrc: 'ErikDahlquist.jpg',
+    bio: 'ErikBio',
     email: 'erik@cs10.org'
 };
 
