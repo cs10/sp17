@@ -16,6 +16,7 @@ var DanGarcia = {
  var addisonH = {
     name: 'TA Addison Howe',
     img: 'Fa16/AddisonHowe.JPG',
+    email: 'addison@cs10.org',
     imgSrc: '../Sp17/AddisonHowe.jpg',
     };
 
@@ -75,12 +76,16 @@ var mansiS = {
     name: 'TA Mansi Shah',
     img: 'MansiShah.jpg',
     imgSrc: '../Sp17/MansiShah.jpg',
+    email: 'mansi@cs10.org',
+    bio: 'MansiBio'
 };
 
 var patriciaX = {
     name: 'TA Patricia Xiao',
     img: 'NPY3D.jpg',
     imgSrc: 'NPY3D.jpg',
+    email: 'patricia@cs10.org',
+    bio: 'PatriciaBio',
 };
 
 var stevenT = {
@@ -214,8 +219,8 @@ var jocelynS = {
     img: 'JocelynSun.jpg',
 };
 
- var leonorG = {
-    name: 'LA Leonor Guzman',
+ var leonorA = {
+    name: 'LA Leonor Alcaraz',
     imgSrc: '../Sp17/las/LeonorGuzman.jpg',
     img: 'LeonorGuzman.jpg',
 
@@ -266,7 +271,7 @@ var inst = [ DanGarcia ];
 var tas = [laraM, stevenT, addisonH, erikD, jobelV, lizzyS, mansiS, patriciaX, yifatA];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 var readers = [hectorA, matthewS, noahJ];
-var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorG, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
+var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
