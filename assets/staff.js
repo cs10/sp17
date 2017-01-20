@@ -100,8 +100,8 @@ var stevenT = {
 
 var yifatA = {
   name: 'TA Yifat Amir',
-  img: 'Fa16/YifatAmir.jpg',
-  imgSrc: '../Fa16/YifatAmir.jpg',
+  img: 'Sp17/YifatAmir.jpg',
+  imgSrc: '../Sp17/YifatAmir.jpg',
   imgCrazy: '../small/YifatAmirCrazy.jpg',
   bio: 'YifatBio',
   web: 'https://www.linkedin.com/in/yifat-amir-45633584',
