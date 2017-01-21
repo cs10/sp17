@@ -272,7 +272,7 @@ var inst = [ DanGarcia ];
 var tas = [laraM, stevenT, addisonH, carlosF, erikD, jobelV, lizzyS, mansiS, patriciaX, yifatA];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 var readers = [angelaW, hectorA, matthewS, noahJ];
-var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, samuelS, vardaS, veraG];
+var las = [amyL, andresG, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, samuelS, vardaS, veraG];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
