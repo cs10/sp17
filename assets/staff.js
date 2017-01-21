@@ -111,11 +111,10 @@ var yifatA = {
 
 // Readers
 
-
-var samuelS = {
-    name: 'Reader Samuel Starks',
-    img: 'Fa16/SamStarks.jpg',
-    imgSrc: '../Fa16/SamStarks.jpg',
+var angelaW = {
+    name: 'Reader Angela Wong',
+    imgSrc: '../Sp17/las/AngelaWong.jpg',
+    img: 'AngelaWong.jpg',
 };
 
 var matthewS = {
@@ -151,12 +150,6 @@ var andresG = {
     name: 'LA Andres Gonzalez',
     imgSrc: '../Sp17/las/AndresGonzalez.jpg',
     img: 'AndresGonzalez.jpg',
-};
-
-var angelaW = {
-    name: 'LA Angela Wong',
-    imgSrc: '../Sp17/las/AngelaWong.jpg',
-    img: 'AngelaWong.jpg',
 };
 
 var aprillaJ = {
@@ -252,6 +245,12 @@ var rafaelF = {
     img: 'RafaelFelix.jpg',
 };
 
+var samuelS = {
+    name: 'LA Samuel Starks',
+    img: 'Fa16/SamStarks.jpg',
+    imgSrc: '../Fa16/SamStarks.jpg',
+};
+
  var vardaS = {
     name: 'LA Varda Shrivastava',
     imgSrc: '../Sp17/las/VardaShrivastava.jpg',
@@ -272,8 +271,8 @@ var rafaelF = {
 var inst = [ DanGarcia ];
 var tas = [laraM, stevenT, addisonH, carlosF, erikD, jobelV, lizzyS, mansiS, patriciaX, yifatA];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
-var readers = [hectorA, matthewS, noahJ];
-var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
+var readers = [AngelaW, hectorA, matthewS, noahJ];
+var las = [amyL, andresG, angelaW, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, samuelS, vardaS, veraG];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
