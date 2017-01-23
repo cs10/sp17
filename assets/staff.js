@@ -401,6 +401,6 @@ function normalImage(image, normalPath) {
 /* more code to run on page load */
 // Parameters: a section (HTML 'id') and num of images per row.
 buildGroup('inst', 5);
-buildGroup('tas', 4);
+buildGroup('tas', 5);
 buildGroup('readers', 5);
 buildGroup('las', 5);
