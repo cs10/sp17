@@ -92,21 +92,19 @@ cs10.week2 = {
 // JAN 30 - FEB 3
 cs10.week3 = {
     readings: [
-        reading('The Story of Alan Turing &amp; His Machine',
-                'https://youtu.be/CQhrMmbiaM0'),
+        //reading('The Story of Alan Turing &amp; His Machine',
+                //'https://youtu.be/CQhrMmbiaM0'),
         reading('BtB Chapter 1',
                 '{{ site.baseurl }}/resources/readings/btb/chapter1.pdf')
     ],
-    lect1: lect('No Lecture - Enjoy Your Labor Day!'
+    lect1: lect('Lists and Scoping'
             //lectureURL('1guhwTCV3PgH7QVVSt-bQlyeQsGACulRLzHWgio_wd2c')
     ),
-    lab1: lab('Functions', 'berkeley_bjc/intro_pair/4-abstraction-testing.topic'),
-    lect2: lect('Lists and Scoping', 'https://drive.google.com/folderview?id=0B7pxUEY76zATSHp2REpWMnhSYlk&usp=sharing'
-            //lectureURL('1HielUCvYaOTgqnyP9UciJx-PUBbyhbfxTQWO0Tb9kbU')
-    ),
-    lab2: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
-    disc: disc('All about lists', true),
-    hw: hw2
+    lab1: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
+    lect2: lect('Algorithms'),
+    lab2: lab('Algorithms', 'berkeley_bjc/areas/algorithms.topic', true),
+    disc: disc('All about lists'),//, true),
+    hw: [hw1, hw2]
 };
 // cs10.week3.lect3.classes = 'exam';
 // cs10.week3.work.title += '<hr><strong>Finch Robots Lab (Sect 111)</strong>';
