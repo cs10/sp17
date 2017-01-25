@@ -76,7 +76,8 @@ cs10.week2 = {
                 bcourses('59744796'),
                 'optional')
     ],
-    lect1: lect('Building Blocks'
+    lect1: lect('Building Blocks',
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QT0tfa1lReDRwYjg?usp=sharing'
       //, 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
     ),
     lab1: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
