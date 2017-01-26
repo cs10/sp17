@@ -102,7 +102,7 @@ cs10.week3 = {
     ),
     lab1: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
     lect2: lect('Algorithms'),
-    lab2: lab('Algorithms', 'berkeley_bjc/areas/algorithms.topic', true),
+    lab2: lab('Algorithms', 'berkeley_bjc/areas/algorithms.topic'),
     disc: disc('All about lists'),//, true),
     hw: [hw1, hw2]
 };
