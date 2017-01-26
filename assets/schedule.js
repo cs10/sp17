@@ -81,8 +81,8 @@ cs10.week2 = {
       //, 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
     ),
     lab1: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
-    lect2: lect('Numbers and Abstraction'
-      //, 'https://drive.google.com/folderview?id=0B7pxUEY76zATRGxuRkVCOFlNWWs&usp=sharing'
+    lect2: lect('Numbers and Abstraction',
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qc3dHc3BIM1ZPbEE?usp=sharing'
     ),
     lab2: lab('Functions', 'berkeley_bjc/intro_pair/4-abstraction-testing.topic'),
     disc: disc('Anatomy of a Computer and the Power of Binary'),
