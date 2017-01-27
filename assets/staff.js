@@ -246,7 +246,7 @@ var rafaelF = {
 };
 
 var samuelS = {
-    name: 'LA Samuel Starks',
+    name: 'Head LA Samuel Starks',
     img: 'Fa16/SamStarks.jpg',
     imgSrc: '../Fa16/SamStarks.jpg',
 };
@@ -272,7 +272,7 @@ var inst = [ DanGarcia ];
 var tas = [laraM, stevenT, addisonH, carlosF, erikD, jobelV, lizzyS, mansiS, patriciaX, yifatA];
 // var readers = [ addisonH, hectorA, matthewS,  noahJ, samuelS ];
 var readers = [angelaW, hectorA, matthewS, noahJ];
-var las = [amyL, andresG, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, samuelS, vardaS, veraG];
+var las = [samuelS, amyL, andresG, aprillaJ, arvindN, bardiaB, batoolN, bhumikaG, calvinP, gabrielV, hannahV, jingjingJ, jocelynS, leonorA, lyricY, maxY, michelleC, rafaelF, vardaS, veraG];
 
 // If you need to add a new SECTION add it to this object.
 // Follow the same formt.
