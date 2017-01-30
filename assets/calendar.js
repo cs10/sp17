@@ -4,7 +4,7 @@ var cs10 = cs10 || {};
 cs10.startDate = '{{ site.startDate }}';
 cs10.endDate   = '{{ site.endDate }}';
 cs10.bCoursesID = '{{ site.bCourses }}';
-cs10.NUM_WEEKS_TO_RENDER = 3;
+cs10.NUM_WEEKS_TO_RENDER = 17;
 
 cs10.gradingScheme = {
     'A+': 485,
