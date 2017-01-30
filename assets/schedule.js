@@ -35,13 +35,13 @@ var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
     hw1             = hw('HW1: Word Guessing', '2/1', 'assignments/7768716', hw1Spec)
     hw2             = hw('HW2: Encryptify', '2/17', 'assignments/7768717') //, hw2Spec)
     hw3             = hw('HW3: 2048','3/1', 'assignments/7768718') // , hw3Spec)
-    mProposal       = hw('Midterm Project Proposals', '3/5', 'assignments/7768721', mtProjSpec)
+    mProposal       = hw('Midterm Project Proposals', '3/5', 'assignments/7768721') //, mtProjSpec)
 //     mMilestone      = hw('Midterm Project<br> Milestone', '10/14', 'assignments/7768720')
-    mProject        = hw('Midterm Project', '3/15', 'assignments/7768719', mtProjSpec)
-    explorePost     = hw('"Explore" Writing Assignment', '4/7', '/discussion_topics/5125383', exploreSpec)
+    mProject        = hw('Midterm Project', '3/15', 'assignments/7768719') //, mtProjSpec)
+    explorePost     = hw('"Explore" Writing Assignment', '4/7', '/discussion_topics/5125383') //, exploreSpec)
     explorePostDoc  = hw('"Explore" Writing Assignment Document Submission', '4/7', '/assignments/7768712')
     exploreComments = hw('"Explore" Comments', '4/12', '/discussion_topics/5125383')
-    fProposal       = hw('Final Project Proposal', '4/9', 'assignments/7768715', finalProjSpec)
+    fProposal       = hw('Final Project Proposal', '4/9', 'assignments/7768715') //, finalProjSpec)
     fMilestone      = hw('Final Project Milestone', '4/21', 'assignments/7768714')
     fProject        = hw('Final Project', '4/28', 'assignments/7768713')
 
@@ -55,9 +55,7 @@ cs10.week1 = {
     lect1: lect('No Lecture Monday - Enjoy MLK day!'),
     lab1: lab("Welcome to <span class='snap'>snap</span>", "berkeley_bjc/intro_pair/1-introduction.topic"),
     lect2: lect('Welcome and Abstraction'
-        ,'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'
-        //lectureURL('1T9abQi3qjhWi4ws0pADRiYBkpP-lvs5TKyokVPJWUFU')
-    ),
+        ,'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'),
     lab2: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
     disc: disc('Welcome to CS10!'),
     hw: hw0
@@ -77,9 +75,7 @@ cs10.week2 = {
                 'optional')
     ],
     lect1: lect('Building Blocks',
-            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QT0tfa1lReDRwYjg?usp=sharing'
-      //, 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
-    ),
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QT0tfa1lReDRwYjg?usp=sharing'),
     lab1: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
     lect2: lect('Numbers and Abstraction',
             'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qc3dHc3BIM1ZPbEE?usp=sharing'
@@ -104,7 +100,7 @@ cs10.week3 = {
     lect2: lect('Algorithms'),
     lab2: lab('Algorithms', 'berkeley_bjc/areas/algorithms.topic'),
     disc: disc('All about lists'),//, true),
-    hw: [hw1, hw2]
+    hw: hw1
 };
 // cs10.week3.lect3.classes = 'exam';
 // cs10.week3.work.title += '<hr><strong>Finch Robots Lab (Sect 111)</strong>';
@@ -127,30 +123,26 @@ cs10.week4 = {
                 'https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04',
                 'optional')
     ],
-    lect1: lect('Algorithmic Complexity', 'https://drive.google.com/drive/folders/0B7pxUEY76zATNXJudTlsYW9ISUk?usp=sharing'
-            //lectureURL('1dExMn1OoSs-wo3sLNXFnd4TYL_vl4bDfguzNtZLSeww')
-    ),
-    lab1: lab('Algorithmic Complexity', 'berkeley_bjc/areas/algorithm-complexity.topic'),
-    lect2: lect('Concurrency', 'https://drive.google.com/drive/folders/0B7pxUEY76zATOUJZSTZKcTFsVU0?usp=sharing'
-            //lectureURL('1dExMn1OoSs-wo3sLNXFnd4TYL_vl4bDfguzNtZLSeww')
-    ),
-    lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic', true),
-    disc: disc('Quest Review', true),
+    lect1: lect('Algorithmic Complexity'),
+    lab1: lab('Algorithmic Complexity', 'berkeley_bjc/areas/algorithm-complexity.topic', true),
+    lect2: lect('Concurrency'),
+    lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
+    disc: disc('Quest Review'),
     hw: hw2
 };
 
 // FEB 13 - 17
 cs10.week5 = {
     readings: 'No Readings for this Week - Study for the Quest!',
-    lect1: lect('<br><a href="exams/quest.html">Quest</a><br><br>Mon 2/13<br>In Class<br>Evans 10'),
-    lab1: lab('HW2 Work Session', True),
-    lect2: lect('Programming Paradigms', 'https://drive.google.com/drive/folders/0B7pxUEY76zATb1ZMRDFXN25oLVU?usp=sharing'),),
+    lect1: lect('Quest<br>Mon 2/13<br>In Class<br>Evans 10'),
+    lab1: lab('HW2 Work Session', null, true),
+    lect2: lect('Programming Paradigms'),
     lab2: lab('HW2 Work Session'),
     disc: disc('Quest Debrief and HW3 Introduction'),
     hw: hw2
 };
 
-cs10.week5.lect2.classes = 'exam';
+cs10.week5.lect1.classes = 'exam';
 
 // FEB 20 - 24
 cs10.week6 = {
@@ -162,9 +154,9 @@ cs10.week6 = {
     ],
     lect1: lect('No Lecture Monday - Enjoy your holiday!'),
     lab1: lab('Testing, HW3', 'berkeley_bjc/2048-testing/2048.topic', true),
-    lect2: lect('Recursion I', 'https://drive.google.com/drive/folders/0B7pxUEY76zATSUY2QlNDUDItaU0?usp=sharing', true),
-    lab2: lab('Trees and Fractals Using Recursion', 'berkeley_bjc/recur/recursion-trees-fractals.topic'),
-    disc: disc('Concurrency and Mutability', true),
+    lect2: lect('Recursion I'),
+    lab2: lab('Trees and Fractals Using Recursion'),
+    disc: disc('Concurrency and Mutability'),
     hw: hw3
 };
 
@@ -176,10 +168,8 @@ cs10.week7 = {
         reading('eWEEK at 30: Multicore CPUs Keep Chip Makers in Step With Moore\'s Law',
             'https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit?usp=sharing')
     ],
-    lect1: lect('Recursion II', 'https://drive.google.com/drive/folders/0B7pxUEY76zATNVpiWkl2WHo3YzA?usp=sharing'),
-    lect2: lect('Social Implications of Computing I', 'https://drive.google.com/drive/folders/0B7pxUEY76zATdHQtNlJuUkRFOUk?usp=sharing'
-        //lectureURL('1NuOa586nkC1m95X_5LYyiI4gs0s3XL5eRZF7DeH81us')
-    ),
+    lect1: lect('Recursion II'),
+    lect2: lect('Social Implications of Computing I'),
     lab1: lab('Recursive Reporters', 'berkeley_bjc/recur/recursive-reporters-part1.topic', true),
     lab2: lab('Tic-Tac-Toe, Boards', 'berkeley_bjc/lists/tic-tac-toe.topic'),
     disc: disc('Social Implications'),
@@ -197,11 +187,11 @@ cs10.week8 = {
                 'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf', 'optional'),
     ],
     lect1: lect('Social Implications of Computing II'),
-    lab1: lab('Midterm Project Work Session', true),
+    lab1: lab('Midterm Project Work Session', null, true),
     lect2: lect('Procedures as Data - Higher Order Procedures'),
     lab2: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic', true),
-    disc: disc('Recursion', true),
-    hw: mMilestone
+    disc: disc('Recursion'),
+    hw: mProject
 };
 
 // MAR 13 - 17
@@ -210,16 +200,16 @@ cs10.week9 = {
         reading('As We May Think',
                 'http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/')
     ],
-    disc: disc('More on Recursion', true),
-    lab1: lab('Midterm Project Work Session', true),
+    disc: disc('More on Recursion'),
+    lab1: lab('Midterm Project Work Session', null, true),
     lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
-    lect1: lect('Social Implications of Computing III', 'https://drive.google.com/drive/folders/0B7pxUEY76zATbktNZkszSnVXNmc?usp=sharing'),
+    lect1: lect('Social Implications of Computing III'),
     lect2: lect('TBD'),
     hw: mProject
 };
 
-cs10.week10.lect1.classes = 'exam';
-cs10.week10.lect2.classes = 'exam';
+// cs10.week10.lect1.classes = 'exam';
+// cs10.week10.lect2.classes = 'exam';
 
 // MAR 20 - 24
 cs10.week10 = {
@@ -235,10 +225,10 @@ cs10.week10 = {
 };
 
 // MAR 27 - 31
-cs10.week10 = {
+cs10.week11 = {
     special: 'Spring Break -- No Class',
-    readings: [],
-    hw: hw('Continue Working On Your Project')
+    readings: 'No Reading.',
+    hw: hw('Have fun!')
 };
 
 // cs10.week11 = {
@@ -291,16 +281,11 @@ cs10.week12 = {
             'optional')
     ],
     disc: disc('Python'),
-    lect1: lect('Python II', 'https://drive.google.com/drive/folders/0B7pxUEY76zATOHhEdkVKMGdSUUk?usp=sharing'
-            //lectureURL('1awAwgpYve-vCKUx9LmFr5ZFKbfS15cQuTp3Prg7QiWw')
-            //lectureURL('1dqoMCkDFxoGusaJBwyvMYMgoPY47wUt8WRgG1HOVfLQ')
-    ),
-    lect2: lect('Python III', 'https://drive.google.com/drive/folders/0B7pxUEY76zATOHhEdkVKMGdSUUk?usp=sharing'
-            //lectureURL('1syVIRCXLGgo9M0BUS4X-GLVeQq2-gBwwsUwQ7XJ8f0s')
-    ),
+    lect1: lect('Python II'),
+    lect2: lect('Python III'),
     lab1: lab('Besides Blocks: Data Structures in Python', 'berkeley_bjc/python/besides-blocks-data-struct.topic', true),
     lab2: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
-    hw: [explorePost, explorePostDoc, fProposal]
+    hw: [explorePost, explorePostDoc]
 };
 
 // APR 10 - 14
@@ -311,10 +296,10 @@ cs10.week13 = {
     ],
     disc: disc('The Internet'),
     lect1: lect('TBD'),
-    lect2: lect('The Internet', 'https://drive.google.com/drive/folders/0B7pxUEY76zATZmNCb2ZuVmJKVW8?usp=sharing'),
+    lect2: lect('The Internet'),
     lab1: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
     lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
-    hw: [exploreComments]
+    hw: [exploreComments, fProposal]
 };
 
 
@@ -325,9 +310,9 @@ cs10.week14 = {
         reading('Gladwell vs. Shirky: A Year Later, Scoring the Debate Over Social-Media Revolutions', 'http://www.wired.com/2011/12/gladwell-vs-shirky/'),
         reading('P vs. NP and the Computational Complexity Zoo - Video', ' https://youtu.be/YX40hbAHx3s', 'optional')
     ],
-    disc: disc('No Discussion - Enjoy your Thanksgiving Break!'),
+    disc: disc('TBD'),
     lab1: lab('Final Project Work Session', null, true),
-    lect1: lect('Limits of Computing', 'https://drive.google.com/drive/folders/0B7pxUEY76zATLVc2VmxBdldMaEU?usp=sharing'),
+    lect1: lect('Limits of Computing'),
     lect2: lect('TBD'),
     lab2: lab('TBD'),
     hw: fMilestone
@@ -343,7 +328,7 @@ cs10.week15 = {
     disc: disc('Farewell! Recap and Feedback'),
     lab1: lab('Project Work Session', null, true),
     lect1: lect('TBD'),
-    lect2: lect('Conclusion', 'https://drive.google.com/drive/folders/0B7pxUEY76zATcUFlcXhEb3VxWG8?usp=sharing'),
+    lect2: lect('Conclusion'),
     lab2: lab('In-Lab Final Exam'),
     hw: fProject
 };
