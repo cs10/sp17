@@ -26,14 +26,14 @@ function lectureURL(googId) {
 
 // CONSTANTS:
 var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
-    hw2Spec         = docs('1C5d7zYwubcDUDDFn_x6NFpUrT2Ldum3ElnYhsgJ4fMo')
+    hw2Spec         = docs('1X4Oq4aZSsNBl-f5xEwWAkNxUo7-ktAWFKRyEr9fHDUQ')
     hw3Spec         = docs('1hFUynrAcREKc6EVpunCI0T6Xlwrc5pBvx8bVv6DKxmE')
     mtProjSpec      = docs('18842eevTYk7EuQppnrbqKpj-79EFGtJyPGJV8S-H-zs')
     exploreSpec     = docs('13X3zh24-JIFVs8p7X8iBRxrSMdiZELIyZ82d__xGSds')
     finalProjSpec   = docs('1czO__vPK5sdLOZp5apqXyM6FCGQw7fESisCRM__9Wis')
     hw0             = hw('HW0', '1/21', 'quizzes/2266425')
     hw1             = hw('HW1: Word Guessing', '2/1', 'assignments/7768716', hw1Spec)
-    hw2             = hw('HW2: Encryptify', '2/17', 'assignments/7768717') //, hw2Spec)
+    hw2             = hw('HW2: Encryptify', '2/17', 'assignments/7768717', hw2Spec)
     hw3             = hw('HW3: 2048','3/1', 'assignments/7768718') // , hw3Spec)
     mProposal       = hw('Midterm Project Proposals', '3/5', 'assignments/7768721') //, mtProjSpec)
 //     mMilestone      = hw('Midterm Project<br> Milestone', '10/14', 'assignments/7768720')
