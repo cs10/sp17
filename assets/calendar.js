@@ -4,7 +4,7 @@ var cs10 = cs10 || {};
 cs10.startDate = '{{ site.startDate }}';
 cs10.endDate   = '{{ site.endDate }}';
 cs10.bCoursesID = '{{ site.bCourses }}';
-cs10.NUM_WEEKS_TO_RENDER = 3;
+cs10.NUM_WEEKS_TO_RENDER = 17;
 
 cs10.gradingScheme = {
     'A+': 485,
@@ -64,7 +64,7 @@ cs10.newLabObject = function(title, url, rq, video) {
         cs10.rqCounter += 1;
         rq = cs10.rqCounter;
     }
-    if (title.indexOf('Project Work') !== -1) {
+    if (title.indexOf('Project Work') !== -1 || title.indexOf('Work Session') !== -1) {
         lab.classes = 'project';
     }
     if (title.indexOf('No Lab') !== -1 || title.indexOf('No Class') !== -1) {
