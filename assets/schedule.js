@@ -54,9 +54,8 @@ cs10.week1 = {
     readings: 'No Readings',
     lect1: lect('No Lecture Monday - Enjoy MLK day!'),
     lab1: lab("Welcome to <span class='snap'>snap</span>", "berkeley_bjc/intro_pair/1-introduction.topic"),
-    lect2: lect('Welcome and Abstraction'
-        ,'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'
-        //lectureURL('1T9abQi3qjhWi4ws0pADRiYBkpP-lvs5TKyokVPJWUFU')
+    lect2: lect('Welcome and Abstraction',
+        'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'
     ),
     lab2: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
     disc: disc('Welcome to CS10!'),
@@ -78,7 +77,6 @@ cs10.week2 = {
     ],
     lect1: lect('Building Blocks',
             'https://drive.google.com/drive/folders/0B4KuCtIkhB7QT0tfa1lReDRwYjg?usp=sharing'
-      //, 'https://drive.google.com/folderview?id=0B7pxUEY76zATN0UtTFp6cDdxTjQ&usp=sharing'
     ),
     lab1: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
     lect2: lect('Numbers and Abstraction',
@@ -97,8 +95,8 @@ cs10.week3 = {
         reading('BtB Chapter 1',
                 '{{ site.baseurl }}/resources/readings/btb/chapter1.pdf')
     ],
-    lect1: lect('Lists and Scoping'
-            //lectureURL('1guhwTCV3PgH7QVVSt-bQlyeQsGACulRLzHWgio_wd2c')
+    lect1: lect('Lists and Scoping',
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QWVZfeDJNemtZSmM?usp=sharing'
     ),
     lab1: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
     lect2: lect('Algorithms'),
