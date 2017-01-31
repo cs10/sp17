@@ -81,7 +81,7 @@ cs10.week2 = {
             'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qc3dHc3BIM1ZPbEE?usp=sharing'
     ),
     lab2: lab('Functions', 'berkeley_bjc/intro_pair/4-abstraction-testing.topic'),
-    disc: disc('Anatomy of a Computer and the Power of Binary'),
+    disc: disc('Anatomy of a Computer and the Power of Binary', true),
     hw: hw1
 };
 
