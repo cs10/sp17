@@ -125,8 +125,8 @@ cs10.week4 = {
     ],
     lect1: lect('Algorithmic Complexity'),
     lab1: lab('Algorithmic Complexity', 'berkeley_bjc/areas/algorithm-complexity.topic', true),
-    lect2: lect('Concurrency'),
-    lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
+    lect2: lect('Mutability'),
+    lab2: lab('HW2 Work Session'),
     disc: disc('Quest Review'),
     hw: hw2
 };
@@ -137,7 +137,7 @@ cs10.week5 = {
     lect1: lect('Quest<br>Mon 2/13<br>In Class<br>Evans 10'),
     lab1: lab('HW2 Work Session', null, true),
     lect2: lect('Programming Paradigms'),
-    lab2: lab('HW2 Work Session'),
+    lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
     disc: disc('Quest Debrief and HW3 Introduction'),
     hw: hw2
 };
@@ -202,9 +202,9 @@ cs10.week9 = {
     ],
     disc: disc('More on Recursion'),
     lab1: lab('Midterm Project Work Session', null, true),
-    lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
+    lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
     lect1: lect('Social Implications of Computing III'),
-    lect2: lect('TBD'),
+    lect2: lect('Concurrency'),
     hw: mProject
 };
 
