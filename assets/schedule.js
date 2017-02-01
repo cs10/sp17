@@ -114,9 +114,9 @@ cs10.week4 = {
                 bcourses('60735934')),
        reading('How Algorithms Shape Our World',
                 'http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world.html'),
-        reading('Algorithms Are Great and All, But They Can Also Ruin Lives',
+        reading('Algorithms Are Great and All...',
                 'http://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/'),
-        reading('Hacker News Comments on "Algorithms Are Great and All..."',
+        reading('Comments on "Algorithms Are Great and All..."',
                 'https://news.ycombinator.com/item?id=8630311'),
         reading('The 10 Algorithms That Dominate Our World',
                 'http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464',
@@ -127,8 +127,8 @@ cs10.week4 = {
     ],
     lect1: lect('Algorithmic Complexity'),
     lab1: lab('Algorithmic Complexity', 'berkeley_bjc/areas/algorithm-complexity.topic', true),
-    lect2: lect('Concurrency'),
-    lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
+    lect2: lect('Mutability'),
+    lab2: lab('HW2 Work Session'),
     disc: disc('Quest Review'),
     hw: hw2
 };
@@ -139,7 +139,7 @@ cs10.week5 = {
     lect1: lect('Quest<br>Mon 2/13<br>In Class<br>Evans 10'),
     lab1: lab('HW2 Work Session', null, true),
     lect2: lect('Programming Paradigms'),
-    lab2: lab('HW2 Work Session'),
+    lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
     disc: disc('Quest Debrief and HW3 Introduction'),
     hw: hw2
 };
@@ -204,9 +204,9 @@ cs10.week9 = {
     ],
     disc: disc('More on Recursion'),
     lab1: lab('Midterm Project Work Session', null, true),
-    lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
+    lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
     lect1: lect('Social Implications of Computing III'),
-    lect2: lect('TBD'),
+    lect2: lect('Concurrency'),
     hw: mProject
 };
 
