@@ -210,8 +210,6 @@ cs10.week9 = {
     hw: mProject
 };
 
-// cs10.week10.lect1.classes = 'exam';
-// cs10.week10.lect2.classes = 'exam';
 
 // MAR 20 - 24
 cs10.week10 = {
@@ -225,6 +223,9 @@ cs10.week10 = {
     lab2: lab('Besides Blocks: Welcome to Python', 'berkeley_bjc/python/besides-blocks-welcome.topic'),
     hw: 'Start Thinking about Explore Post'
 };
+
+ cs10.week10.lect1.classes = 'exam';
+ cs10.week10.lect2.classes = 'exam';
 
 // MAR 27 - 31
 cs10.week11 = {
