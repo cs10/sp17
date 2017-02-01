@@ -26,14 +26,14 @@ function lectureURL(googId) {
 
 // CONSTANTS:
 var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
-    hw2Spec         = docs('1C5d7zYwubcDUDDFn_x6NFpUrT2Ldum3ElnYhsgJ4fMo')
+    hw2Spec         = docs('1X4Oq4aZSsNBl-f5xEwWAkNxUo7-ktAWFKRyEr9fHDUQ')
     hw3Spec         = docs('1hFUynrAcREKc6EVpunCI0T6Xlwrc5pBvx8bVv6DKxmE')
     mtProjSpec      = docs('18842eevTYk7EuQppnrbqKpj-79EFGtJyPGJV8S-H-zs')
     exploreSpec     = docs('13X3zh24-JIFVs8p7X8iBRxrSMdiZELIyZ82d__xGSds')
     finalProjSpec   = docs('1czO__vPK5sdLOZp5apqXyM6FCGQw7fESisCRM__9Wis')
     hw0             = hw('HW0', '1/21', 'quizzes/2266425')
     hw1             = hw('HW1: Word Guessing', '2/1', 'assignments/7768716', hw1Spec)
-    hw2             = hw('HW2: Encryptify', '2/17', 'assignments/7768717') //, hw2Spec)
+    hw2             = hw('HW2: Encryptify', '2/17', 'assignments/7768717', hw2Spec)
     hw3             = hw('HW3: 2048','3/1', 'assignments/7768718') // , hw3Spec)
     mProposal       = hw('Midterm Project Proposals', '3/5', 'assignments/7768721') //, mtProjSpec)
 //     mMilestone      = hw('Midterm Project<br> Milestone', '10/14', 'assignments/7768720')
@@ -54,8 +54,9 @@ cs10.week1 = {
     readings: 'No Readings',
     lect1: lect('No Lecture Monday - Enjoy MLK day!'),
     lab1: lab("Welcome to <span class='snap'>snap</span>", "berkeley_bjc/intro_pair/1-introduction.topic"),
-    lect2: lect('Welcome and Abstraction'
-        ,'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'),
+    lect2: lect('Welcome and Abstraction',
+        'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'
+    ),
     lab2: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
     disc: disc('Welcome to CS10!'),
     hw: hw0
@@ -75,13 +76,14 @@ cs10.week2 = {
                 'optional')
     ],
     lect1: lect('Building Blocks',
-            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QT0tfa1lReDRwYjg?usp=sharing'),
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QT0tfa1lReDRwYjg?usp=sharing'
+    ),
     lab1: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
     lect2: lect('Numbers and Abstraction',
             'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qc3dHc3BIM1ZPbEE?usp=sharing'
     ),
     lab2: lab('Functions', 'berkeley_bjc/intro_pair/4-abstraction-testing.topic'),
-    disc: disc('Anatomy of a Computer and the Power of Binary'),
+    disc: disc('Anatomy of a Computer and the Power of Binary', true),
     hw: hw1
 };
 
@@ -93,8 +95,8 @@ cs10.week3 = {
         reading('BtB Chapter 1',
                 '{{ site.baseurl }}/resources/readings/btb/chapter1.pdf')
     ],
-    lect1: lect('Lists and Scoping'
-            //lectureURL('1guhwTCV3PgH7QVVSt-bQlyeQsGACulRLzHWgio_wd2c')
+    lect1: lect('Lists and Scoping',
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QWVZfeDJNemtZSmM?usp=sharing'
     ),
     lab1: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
     lect2: lect('Algorithms'),

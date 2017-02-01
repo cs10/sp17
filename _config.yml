@@ -27,7 +27,7 @@ labsurl: http://beautyjoy.github.io/bjc-r
 
 # This section controlls the interactive google calendar.
 # Should be in MomentJS format
-startDate: 2017-01-14 # First Sunday
+startDate: 2017-01-15 # First Sunday
 endDate:   2017-05-13 # Last Saturday
 
 # Change the calendar to show Sun-Sat instead of M-F when an exam is near
