@@ -191,7 +191,7 @@ cs10.week8 = {
     lect1: lect('Social Implications of Computing II'),
     lab1: lab('Midterm Project Work Session', null, true),
     lect2: lect('Procedures as Data - Higher Order Procedures'),
-    lab2: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic', true),
+    lab2: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic'),
     disc: disc('Recursion'),
     hw: mProject
 };
