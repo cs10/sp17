@@ -99,7 +99,9 @@ cs10.week3 = {
             'https://drive.google.com/drive/folders/0B4KuCtIkhB7QWVZfeDJNemtZSmM?usp=sharing'
     ),
     lab1: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
-    lect2: lect('Algorithms'),
+    lect2: lect('Algorithms',
+            'https://drive.google.com/open?id=0B4KuCtIkhB7QSndSU1FlUFZXcVE'         
+    ),
     lab2: lab('Algorithms', 'berkeley_bjc/areas/algorithms.topic'),
     disc: disc('All about lists'),//, true),
     hw: hw1
