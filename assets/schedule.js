@@ -127,7 +127,9 @@ cs10.week4 = {
                 'https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04',
                 'optional')
     ],
-    lect1: lect('Algorithmic Complexity'),
+    lect1: lect('Algorithmic Complexity',
+            'https://drive.google.com/open?id=0B4KuCtIkhB7QUGYwbmg3a1B5X0E'
+    ),
     lab1: lab('Algorithmic Complexity', 'berkeley_bjc/areas/algorithm-complexity.topic', true),
     lect2: lect('Mutability'),
     lab2: lab('HW2 Work Session'),
