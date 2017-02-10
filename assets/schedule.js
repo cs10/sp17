@@ -143,7 +143,7 @@ cs10.week4 = {
 cs10.week5 = {
     readings: 'No Readings for this Week - Study for the Quest!',
     lect1: lect('Quest<br>Mon 2/13<br>In Class<br>Evans 10'),
-    lab1: lab('HW2 Work Session', null, true),
+    lab1: lab('HW2 Work Session', null),
     lect2: lect('Programming Paradigms'),
     lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
     disc: disc('Quest Debrief and HW3 Introduction'),
