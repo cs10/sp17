@@ -163,7 +163,7 @@ cs10.week6 = {
     lect1: lect('No Lecture Monday - Enjoy your holiday!'),
     lab1: lab('Testing, HW3', 'berkeley_bjc/2048-testing/2048.topic', true),
     lect2: lect('Recursion I'),
-    lab2: lab('Trees and Fractals Using Recursion'),
+    lab2: lab('Trees and Fractals Using Recursion', 'berkeley_bjc/recur/recursion-trees-fractals.topic'),
     disc: disc('Concurrency and Mutability'),
     hw: hw3
 };
