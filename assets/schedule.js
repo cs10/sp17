@@ -155,50 +155,52 @@ cs10.week5.lect1.classes = 'exam';
 // FEB 20 - 24
 cs10.week6 = {
     readings: [
-        reading('BtB Chapter 5',
-        'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf'),
-        reading('Alan Kay: Doing with Images Makes Symbols - 4:04 to 9:20',
-            'https://archive.org/details/AlanKeyD1987')
+        reading('Test Driven Development',
+                                'https://www.codeenigma.com/community/blog/introduction-test-driven-development'),
+        reading('BtB Chapter 2, pg. 19-29, 36-42',
+                'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf'),
+        reading('Rest of BtB chapter 2',
+                'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf', 'optional'),
+        //reading('BtB Chapter 5',
+        //'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf'),
+        //reading('Alan Kay: Doing with Images Makes Symbols - 4:04 to 9:20',
+            //'https://archive.org/details/AlanKeyD1987')
     ],
     lect1: lect('No Lecture Monday - Enjoy your holiday!'),
     lab1: lab('Testing, HW3', 'berkeley_bjc/2048-testing/2048.topic', true),
     lect2: lect('Recursion I'),
     lab2: lab('Trees and Fractals Using Recursion', 'berkeley_bjc/recur/recursion-trees-fractals.topic'),
-    disc: disc('Concurrency and Mutability'),
+    disc: disc('Recursion'),
     hw: hw3
 };
 
 // FEB 27 - MAR 3
 cs10.week7 = {
     readings: [
-        reading('The End of Moore\'s Law',
-                'http://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0'),
-        reading('eWEEK at 30: Multicore CPUs Keep Chip Makers in Step With Moore\'s Law',
-            'https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit?usp=sharing')
+        reading('Humans Need Not Apply - Video',
+                'https://www.youtube.com/watch?v=7Pq-S557XQU'),
     ],
     lect1: lect('Recursion II'),
     lect2: lect('Social Implications of Computing I'),
     lab1: lab('Recursive Reporters', 'berkeley_bjc/recur/recursive-reporters-part1.topic', true),
     lab2: lab('Tic-Tac-Toe, Boards', 'berkeley_bjc/lists/tic-tac-toe.topic'),
-    disc: disc('Social Implications'),
+    disc: disc('Recursion and Social Implications'),
     hw: [hw3, mProposal]
 };
 
 // MAR 6 - 10
 cs10.week8 = {
     readings: [
-        reading('BtB chapter 2, pg. 19-29, 36-42',
-                'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf'),
-        reading('Humans Need Not Apply - Video',
-                'https://www.youtube.com/watch?v=7Pq-S557XQU'),
-        reading('Rest of BtB chapter 2',
-                'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf', 'optional'),
+        reading('The End of Moore\'s Law',
+                'http://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0'),
+        reading('eWEEK at 30: Multicore CPUs Keep Chip Makers in Step With Moore\'s Law',
+            'https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit?usp=sharing')
     ],
     lect1: lect('Social Implications of Computing II'),
     lab1: lab('Midterm Project Work Session', null, true),
     lect2: lect('Procedures as Data - Higher Order Procedures'),
     lab2: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic'),
-    disc: disc('Recursion'),
+    disc: disc('Social Implications and HOFs'),
     hw: mProject
 };
 
@@ -208,7 +210,7 @@ cs10.week9 = {
         reading('As We May Think',
                 'http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/')
     ],
-    disc: disc('More on Recursion'),
+    disc: disc('Midterm Prep'),
     lab1: lab('Midterm Project Work Session', null, true),
     lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
     lect1: lect('Social Implications of Computing III'),
@@ -303,11 +305,11 @@ cs10.week13 = {
         reading('Addicted to Apps', 'http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0'),
         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
     ],
-    disc: disc('The Internet'),
-    lect1: lect('TBD'),
-    lect2: lect('The Internet'),
+    lect1: lect('Limits of Computing'),
+    lect2: lect('TBD'),
     lab1: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
-    lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
+    lab2: lab('Recursion with HOFs', 'berkeley_bjc/hofs/hofs-with-recursion.topic'),
+    disc: disc('TBD'),
     hw: [exploreComments, fProposal]
 };
 
@@ -319,11 +321,11 @@ cs10.week14 = {
         reading('Gladwell vs. Shirky: A Year Later, Scoring the Debate Over Social-Media Revolutions', 'http://www.wired.com/2011/12/gladwell-vs-shirky/'),
         reading('P vs. NP and the Computational Complexity Zoo - Video', ' https://youtu.be/YX40hbAHx3s', 'optional')
     ],
-    disc: disc('TBD'),
     lab1: lab('Final Project Work Session', null, true),
-    lect1: lect('Limits of Computing'),
-    lect2: lect('TBD'),
-    lab2: lab('TBD'),
+    lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
+    lect1: lect('TBD'),
+    lect2: lect('The Internet'),
+    disc: disc('The Internet'),
     hw: fMilestone
 };
 
