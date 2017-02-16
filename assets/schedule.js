@@ -293,8 +293,8 @@ cs10.week12 = {
             'optional')
     ],
     disc: disc('Python'),
-    lect1: lect('Python II'),
-    lect2: lect('Python III'),
+    lect1: lect('Python I'),
+    lect2: lect('Python II'),
     lab1: lab('Besides Blocks: Data Structures in Python', 'berkeley_bjc/python/besides-blocks-data-struct.topic', true),
     lab2: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
     hw: [explorePost, explorePostDoc]
