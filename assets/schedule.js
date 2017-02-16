@@ -55,7 +55,7 @@ cs10.week1 = {
     lect1: lect('No Lecture Monday - Enjoy MLK day!'),
     lab1: lab("Welcome to <span class='snap'>snap</span>", "berkeley_bjc/intro_pair/1-introduction.topic"),
     lect2: lect('Welcome and Abstraction',
-        'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qd1BGV0dGQUZ2NTA'
+        'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QNS1FTmhPWjY4b1E',
     ),
     lab2: lab('Build Your Own Blocks', 'berkeley_bjc/intro_pair/2-loops-variables.topic'),
     disc: disc('Welcome to CS10!'),
@@ -76,11 +76,11 @@ cs10.week2 = {
                 'optional')
     ],
     lect1: lect('Building Blocks',
-            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QT0tfa1lReDRwYjg?usp=sharing'
+            'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QS21oamFTYmN5aWM',
     ),
     lab1: lab('Conditionals and Reporters', 'berkeley_bjc/intro_pair/3-conditionals.topic', true),
     lect2: lect('Numbers and Abstraction',
-            'https://drive.google.com/drive/folders/0B4KuCtIkhB7Qc3dHc3BIM1ZPbEE?usp=sharing'
+            'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QeGNQakQxN3FmMnc',
     ),
     lab2: lab('Functions', 'berkeley_bjc/intro_pair/4-abstraction-testing.topic'),
     disc: disc('Anatomy of a Computer and the Power of Binary', true),
@@ -96,11 +96,11 @@ cs10.week3 = {
                 '{{ site.baseurl }}/resources/readings/btb/chapter1.pdf')
     ],
     lect1: lect('Lists and Scoping',
-            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QWVZfeDJNemtZSmM?usp=sharing'
+            'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QTTE3TjVfY0xIMG8',
     ),
     lab1: lab('Lists I', 'berkeley_bjc/lists/lists-I.topic', true),
     lect2: lect('Algorithms',
-            'https://drive.google.com/open?id=0B4KuCtIkhB7QSndSU1FlUFZXcVE'         
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QNXJoT0RKSEc3N2M',
     ),
     lab2: lab('Algorithms', 'berkeley_bjc/areas/algorithms.topic'),
     disc: disc('All about lists'),//, true),
@@ -128,11 +128,11 @@ cs10.week4 = {
                 'optional')
     ],
     lect1: lect('Algorithmic Complexity',
-            'https://drive.google.com/open?id=0B4KuCtIkhB7QUGYwbmg3a1B5X0E'
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QZU1VbTlMLWVhNVE',
     ),
     lab1: lab('Algorithmic Complexity', 'berkeley_bjc/areas/algorithm-complexity.topic', true),
     lect2: lect('Mutability',
-            'https://drive.google.com/open?id=0B4KuCtIkhB7QZ3BpSzdBMzUybEk'
+            'https://drive.google.com/drive/folders/0B4KuCtIkhB7QM3JMOHlSY3E4YVE',
     ),
     lab2: lab('HW2 Work Session'),
     disc: disc('Quest Review'),
@@ -144,7 +144,8 @@ cs10.week5 = {
     readings: 'No Readings for this Week - Study for the Quest!',
     lect1: lect('Quest<br>Mon 2/13<br>In Class<br>Evans 10'),
     lab1: lab('HW2 Work Session', null),
-    lect2: lect('Programming Paradigms'),
+    lect2: lect('Programming Paradigms',
+            'https://drive.google.com/drive/folders/0B7pxUEY76zATb1ZMRDFXN25oLVU?usp=sharing'),
     lab2: lab('Finch Lab', 'berkeley_bjc/robots/robots.topic'),
     disc: disc('Quest Debrief and HW3 Introduction'),
     hw: hw2
