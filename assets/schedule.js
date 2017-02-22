@@ -34,7 +34,7 @@ var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
     hw0             = hw('HW0', '1/21', 'quizzes/2266425')
     hw1             = hw('HW1: Word Guessing', '2/1', 'assignments/7768716', hw1Spec)
     hw2             = hw('HW2: Encryptify', '2/17', 'assignments/7768717', hw2Spec)
-    hw3             = hw('HW3: 2048','3/1', 'assignments/7768718') // , hw3Spec)
+    hw3             = hw('HW3: 2048','3/3', 'assignments/7768718') // , hw3Spec)
     mProposal       = hw('Midterm Project Proposals', '3/5', 'assignments/7768721') //, mtProjSpec)
 //     mMilestone      = hw('Midterm Project<br> Milestone', '10/14', 'assignments/7768720')
     mProject        = hw('Midterm Project', '3/15', 'assignments/7768719') //, mtProjSpec)
@@ -197,9 +197,9 @@ cs10.week8 = {
         reading('eWEEK at 30: Multicore CPUs Keep Chip Makers in Step With Moore\'s Law',
             'https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit?usp=sharing')
     ],
-    lect1: lect('Social Implications of Computing II'),
+    lect1: lect('Procedures as Data - Higher Order Procedures'),
     lab1: lab('Midterm Project Work Session', null, true),
-    lect2: lect('Procedures as Data - Higher Order Procedures'),
+    lect2: lect('Social Implications of Computing II'),
     lab2: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic'),
     disc: disc('Social Implications and HOFs'),
     hw: mProject
@@ -214,6 +214,7 @@ cs10.week9 = {
     disc: disc('Midterm Prep'),
     lab1: lab('Midterm Project Work Session', null, true),
     lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
+    /* AI */
     lect1: lect('Social Implications of Computing III'),
     lect2: lect('Concurrency'),
     hw: mProject
