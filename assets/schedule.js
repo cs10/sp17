@@ -27,14 +27,14 @@ function lectureURL(googId) {
 // CONSTANTS:
 var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
     hw2Spec         = docs('1X4Oq4aZSsNBl-f5xEwWAkNxUo7-ktAWFKRyEr9fHDUQ')
-    hw3Spec         = docs('1hFUynrAcREKc6EVpunCI0T6Xlwrc5pBvx8bVv6DKxmE')
+    hw3Spec         = docs('1fWla-mB4obzo_OPffCbWjZ1GXYNv7TVtrowxbtCk-PU')
     mtProjSpec      = docs('18842eevTYk7EuQppnrbqKpj-79EFGtJyPGJV8S-H-zs')
     exploreSpec     = docs('13X3zh24-JIFVs8p7X8iBRxrSMdiZELIyZ82d__xGSds')
     finalProjSpec   = docs('1czO__vPK5sdLOZp5apqXyM6FCGQw7fESisCRM__9Wis')
     hw0             = hw('HW0', '1/21', 'quizzes/2266425')
     hw1             = hw('HW1: Word Guessing', '2/1', 'assignments/7768716', hw1Spec)
     hw2             = hw('HW2: Encryptify', '2/17', 'assignments/7768717', hw2Spec)
-    hw3             = hw('HW3: 2048','3/3', 'assignments/7768718') // , hw3Spec)
+    hw3             = hw('HW3: 2048','3/3', 'assignments/7768718', hw3Spec)
     mProposal       = hw('Midterm Project Proposals', '3/5', 'assignments/7768721') //, mtProjSpec)
 //     mMilestone      = hw('Midterm Project<br> Milestone', '10/14', 'assignments/7768720')
     mProject        = hw('Midterm Project', '3/15', 'assignments/7768719') //, mtProjSpec)
@@ -178,8 +178,8 @@ cs10.week6 = {
 // FEB 27 - MAR 3
 cs10.week7 = {
     readings: [
-        reading('Humans Need Not Apply - Video',
-                'https://www.youtube.com/watch?v=7Pq-S557XQU'),
+        reading('Present Shock -- When Everything Happened Now', 'https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be'),
+        reading('BtB Chapter 6','http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf'),
     ],
     lect1: lect('Recursion II'),
     lect2: lect('Social Implications of Computing I'),
@@ -208,6 +208,8 @@ cs10.week8 = {
 // MAR 13 - 17
 cs10.week9 = {
     readings: [
+        reading('Humans Need Not Apply - Video',
+                'https://www.youtube.com/watch?v=7Pq-S557XQU'),
         reading('As We May Think',
                 'http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/')
     ],
@@ -334,8 +336,6 @@ cs10.week14 = {
 // APR 24 - 28
 cs10.week15 = {
     readings: [
-        reading('BtB Chapter 6','http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf'),
-        reading('Present Shock -- When Everything Happened Now', 'https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be'),
         reading('A Quantum Leap in Computing?', 'http://www.newyorker.com/tech/elements/a-quantum-leap-in-computing', 'optional')
     ],
     disc: disc('Farewell! Recap and Feedback'),
