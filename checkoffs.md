@@ -170,9 +170,20 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 5: Lab 8
+# Week 5: Lab 8 
 
-## Lab 8: Testing Code and 2048 {#lab8}
+## Lab 8: Finch Lab {#lab15}
+
+**Required**
+
+You can get checked off for this lab as long as you show up to lab and work on it. No questions!
+ 
+
+---
+
+# Week 6: Labs 9 and 10
+
+## Lab 9: Testing Code and HW3 {#lab8}
 
 **Required**
 
@@ -185,28 +196,43 @@ To get checked off, you should prepare answers to the specific questions for eac
 **More Self-Check Questions**
 
 * What tests could you have written for HW2 (Encryptify)?
-* Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s). 
+* Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s).
 
----
-
-# Week 6: Labs 9 and 10
-
-## Lab 9: Concurrency {#lab9}
-
+## Lab 10: Trees and Fractals Using Recursion {#lab11}
 **Required**
 
-* What is a race condition?
-* Is it always true that splitting a task among 10 “workers” is better than splitting it among 5 “workers”?
-* What is the difference between determinism and nondeterminism, in the context of concurrency?
-* How does Snap! handle concurrency?
-* What happened as you added more people in the card sorting activity?
+* Please show me your “crazy-tree” block.
+* Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
+* Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
+* What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
+* Please show me your “snowflake” block.
+
 
 **More Self-Check Questions**
 
-* What were some strategies your team thought of in the card sorting activity? How do these relate to how a computer handles concurrency?
-* Give an example of when concurrency might cause a problem in a computer program.
+* Please shoe me your "C-Curve" block.
 
-## Lab 10: Tic-Tac-Toe, Boards {#lab10}
+
+---
+
+# Week 7: Lab 11 and 12
+
+## Lab 11: Recursive Reporters {#lab12}
+
+**Required**
+
+* Why do we map the first item of the set in front of a recursive call of `subsets _` over the rest of the list?
+* Explain why the second version of `subsets _` only makes 7 calls instead of 64.
+* Explain how the `sort _` block works, how the `merge _` block works, and how they work together.
+* Show us the recursive `numbers _` block.
+* Show us the recursive `ends-e _` block.
+
+**More Self-Check Questions**
+
+* Why might we want to write a function recursively instead of iteratively or using a HOF?
+* How might we be able to use recursive reporters to improve runtime?
+
+## Lab 12: Tic-Tac-Toe, Boards {#lab10}
 
 **Required**
 
@@ -222,44 +248,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 7: Lab 11
-
-## Lab 11: Trees and Fractals Using Recursion {#lab11}
-**Required**
-
-* Please show me your “crazy-tree” block.
-* Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
-* Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
-* What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-* Please show me your “snowflake” block.
-
-
-**More Self-Check Questions**
-
-* Please shoe me your "C-Curve" block.
-
----
-
-# Week 8: Lab 12
-
-## Lab 12: Recursive Reporters {#lab12}
-
-**Required**
-
-* Why do we map the first item of the set in front of a recursive call of `subsets _` over the rest of the list?
-* Explain why the second version of `subsets _` only makes 7 calls instead of 64.
-* Explain how the `sort _` block works, how the `merge _` block works, and how they work together.
-* Show us the recursive `numbers _` block.
-* Show us the recursive `ends-e _` block.
-
-**More Self-Check Questions**
-
-* Why might we want to write a function recursively instead of iteratively or using a HOF?
-* How might we be able to use recursive reporters to improve runtime?
-
-------
-
-# Week 9: Lab 13
+# Week 8: Lab 13
 
 ## Lab 13: Functions as Data and HOFs {#lab13}
 
@@ -278,9 +267,28 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What is the domain and range of the `compose` block? How would you construct the `compose-from-list` block?
 
 
----
+------
 
-# Week 11: Lab 14
+# Week 9: Lab 14
+
+
+## Lab 14: Concurrency {#lab9}
+
+**Required**
+
+* What is a race condition?
+* Is it always true that splitting a task among 10 “workers” is better than splitting it among 5 “workers”?
+* What is the difference between determinism and nondeterminism, in the context of concurrency?
+* How does Snap! handle concurrency?
+* What happened as you added more people in the card sorting activity?
+
+**More Self-Check Questions**
+
+* What were some strategies your team thought of in the card sorting activity? How do these relate to how a computer handles concurrency?
+* Give an example of when concurrency might cause a problem in a computer program.
+
+---
+# Week 10: Lab 15
 
 ## Lab 14: Besides Blocks: Welcome to Python {#lab14}
 
@@ -299,15 +307,13 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What is the domain and range for the "+" function in python?
 
 
+---
+# Week 11: Spring Break
+
+
 ------
 
-# Week 12: Lab 15 and 16
-
-## Lab 15: Finch Lab {#lab15}
-
-**Required**
-
-You can get checked off for this lab as long as you show up to lab and work on it. No questions!
+# Week 12: Lab 16 and 17
 
 ## Lab 16: Besides Blocks: Data Structures in Python {#lab16}
 
@@ -323,11 +329,6 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * How to open the Python interpreter and run a script.
 * How do you make a directory, enter a directory, and check what is inside your current directory?
 * How do you define a function in python?
-
-
-------
-
-# Week 13: Lab 17
 
 ## Lab 17: Besides Blocks: Text Processing in Python {#lab17}
 
@@ -346,9 +347,17 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ------
 
-# Week 14: Lab 18
+# Week 13: Lab 18
+## Lab 18: Recursion with HOFs {#lab17}
 
-## Lab 18:The Internet {#lab18}
+**Coming Soon**
+
+
+------
+
+# Week 14: Lab 19
+
+## Lab 19:The Internet {#lab18}
 
 **Required**
 
