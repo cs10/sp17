@@ -83,8 +83,8 @@ var mansiS = {
 
 var patriciaX = {
     name: 'TA Patricia Xiao',
-    img: 'NPY3D.jpg',
-    imgSrc: 'NPY3D.jpg',
+    img: '../Sp17/PatriciaXiao.jpg',
+    imgSrc: '../Sp17/PatriciaXiao.jpg',
     email: 'patricia@cs10.org',
     bio: 'PatriciaBio',
 };
