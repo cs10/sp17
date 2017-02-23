@@ -68,7 +68,7 @@ var laraM = {
     img: 'LaraMcConnaughey.jpg',
     imgSrc: '../Sp17/LaraMcConnaughey.jpg',
     imgCrazy: '../small/LaraMcConnaugheyCrazy.jpg',
-    web: 'https://www.linkedin.com/in/lara-mcconnaughey-4a834173',
+    web: 'http://laralinmcc.github.io/',
     bio: 'LaraBio',
     email: 'lara@cs10.org'
 };
