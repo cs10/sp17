@@ -218,7 +218,8 @@ cs10.week9 = {
     lab1: lab('Midterm Project Work Session', null, true),
     lab2: lab('Concurrency', 'berkeley_bjc/areas/concurrency.topic'),
     /* AI */
-    lect1: lect('Social Implications of Computing III'),
+    lect1: lect('Artificial Intelligence', '', "Pat Virtue"),
+    //lect1: lect('Social Implications of Computing III'),
     lect2: lect('Concurrency'),
     hw: mProject
 };
