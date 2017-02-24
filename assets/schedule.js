@@ -169,8 +169,7 @@ cs10.week6 = {
     ],
     lect1: lect('No Lecture Monday - Enjoy your holiday!'),
     lab1: lab('Testing, HW3', 'berkeley_bjc/2048-testing/2048.topic', true),
-    //lect2: lect('Recursion I', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QTklZQkNYS0NtTlk'),
-    lect2: lect('Recursion I', 'http://cs10.org/sp17/#calendar'),
+    lect2: lect('Recursion I', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QTklZQkNYS0NtTlk'),
     lab2: lab('Trees and Fractals Using Recursion', 'berkeley_bjc/recur/recursion-trees-fractals.topic'),
     disc: disc('Recursion'),
     hw: hw3
