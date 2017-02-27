@@ -181,7 +181,7 @@ cs10.week7 = {
         reading('Present Shock -- When Everything Happened Now', 'https://www.youtube.com/watch?v=_z2oFCR-0pc&feature=youtu.be'),
         reading('BtB Chapter 6','http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf'),
     ],
-    lect1: lect('Recursion II'),
+    lect1: lect('Recursion II', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QWHY3Q0owczNaR3c'),
     lect2: lect('Social Implications of Computing I'),
     lab1: lab('Recursive Reporters', 'berkeley_bjc/recur/recursive-reporters-part1.topic', true),
     lab2: lab('Tic-Tac-Toe, Boards', 'berkeley_bjc/lists/tic-tac-toe.topic'),
