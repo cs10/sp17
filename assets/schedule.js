@@ -159,8 +159,6 @@ cs10.week6 = {
                                 'https://www.codeenigma.com/community/blog/introduction-test-driven-development'),
         reading('BtB Chapter 2, pg. 19-29, 36-42',
                 'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf'),
-        reading('Rest of BtB chapter 2',
-                'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf', 'optional'),
         //reading('BtB Chapter 5',
         //'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf'),
         //reading('Alan Kay: Doing with Images Makes Symbols - 4:04 to 9:20',
@@ -181,7 +179,7 @@ cs10.week7 = {
         reading('BtB Chapter 6','http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf'),
     ],
     lect1: lect('Recursion II', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QWHY3Q0owczNaR3c'),
-    lect2: lect('Social Implications of Computing I'),
+    lect2: lect('Social Implications of Computing I', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QVWxuQzlMcHJKVlk'),
     lab1: lab('Recursive Reporters', 'berkeley_bjc/recur/recursive-reporters-part1.topic', true),
     lab2: lab('Tic-Tac-Toe, Boards', 'berkeley_bjc/lists/tic-tac-toe.topic'),
     disc: disc('Recursion and Social Implications'),
@@ -191,14 +189,13 @@ cs10.week7 = {
 // MAR 6 - 10
 cs10.week8 = {
     readings: [
-        reading('The End of Moore\'s Law',
-                'http://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0'),
-        reading('eWEEK at 30: Multicore CPUs Keep Chip Makers in Step With Moore\'s Law',
-            'https://docs.google.com/document/d/1FC-_lcn_EWlGXLfPDlQbSQeE1Q4NpTG39S-kVkHRxv8/edit?usp=sharing')
+        reading('Rest of BtB chapter 2',
+                'http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf'),
     ],
     lect1: lect('Procedures as Data - Higher Order Procedures'),
     lab1: lab('Midterm Project Work Session', null, true),
-    lect2: lect('Social Implications of Computing II'),
+    //lect2: lect('Social Implications of Computing II'),
+    lect2: lect('Privacy', null, "Gerald Friedland"),
     lab2: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic'),
     disc: disc('Social Implications and HOFs'),
     hw: mProject
@@ -209,8 +206,10 @@ cs10.week9 = {
     readings: [
         reading('Humans Need Not Apply - Video',
                 'https://www.youtube.com/watch?v=7Pq-S557XQU'),
+        reading('The End of Moore\'s Law',
+                'http://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0'),
         reading('As We May Think',
-                'http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/')
+                'http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/', 'optional')
     ],
     disc: disc('Midterm Prep'),
     lab1: lab('Midterm Project Work Session', null, true),
@@ -310,7 +309,7 @@ cs10.week13 = {
         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
     ],
     lect1: lect('Limits of Computing'),
-    lect2: lect('TBD'),
+    lect2: lect('Human Computer Interface', null, "Bjoern Hartmann"),
     lab1: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
     lab2: lab('Recursion with HOFs', 'berkeley_bjc/hofs/hofs-with-recursion.topic'),
     disc: disc('TBD'),
@@ -327,7 +326,7 @@ cs10.week14 = {
     ],
     lab1: lab('Final Project Work Session', null, true),
     lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
-    lect1: lect('TBD'),
+    lect1: lect('Saving the World with Computing', null, "Kathy Yelick"),
     lect2: lect('The Internet'),
     disc: disc('The Internet'),
     hw: fMilestone
