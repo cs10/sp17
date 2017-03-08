@@ -196,7 +196,7 @@ cs10.week8 = {
             'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QMGJwdUxXd05GODA'),
     lab1: lab('Midterm Project Work Session', null, true),
     //lect2: lect('Social Implications of Computing II'),
-    lect2: lect('Privacy', null, "Gerald Friedland"),
+    lect2: lect('Privacy', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QX2xjOV8xTnd3cmc', "Gerald Friedland"),
     lab2: lab('Functions as Data and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic'),
     disc: disc('Social Implications and HOFs'),
     hw: mProject
@@ -309,7 +309,7 @@ cs10.week13 = {
         reading('Addicted to Apps', 'http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0'),
         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
     ],
-    lect1: lect('Limits of Computing'),
+    lect1: lect('Saving the World with Computing', null, "Kathy Yelick"),
     lect2: lect('Human Computer Interface', null, "Bjoern Hartmann"),
     lab1: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
     lab2: lab('Recursion with HOFs', 'berkeley_bjc/hofs/hofs-with-recursion.topic'),
@@ -327,7 +327,7 @@ cs10.week14 = {
     ],
     lab1: lab('Final Project Work Session', null, true),
     lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
-    lect1: lect('Saving the World with Computing', null, "Kathy Yelick"),
+    lect1: lect('Limits of Computing'),
     lect2: lect('The Internet'),
     disc: disc('The Internet'),
     hw: fMilestone
