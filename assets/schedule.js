@@ -218,7 +218,7 @@ cs10.week9 = {
     /* AI */
     lect1: lect('Artificial Intelligence', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QNFVHVUdfbXYzcWM', "Pat Virtue"),
     //lect1: lect('Social Implications of Computing III'),
-    lect2: lect('Concurrency'),
+    lect2: lect('Concurrency', 'https://drive.google.com/drive/folders/0B4KuCtIkhB7QUlpxdXR4MXV2cWM'),
     hw: mProject
 };
 
