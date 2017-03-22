@@ -232,7 +232,7 @@ cs10.week10 = {
     lect2: lect('<br><br><div class="exam inner">Midterm Exam Part II</a><br><br>Wednesday 3/22<br>Evans 10</div>'
     ),
     lab1: lab('Online <span class="snap">snap</span> Midterm'),
-    lab2: lab('Besides Blocks: Welcome to Python', 'berkeley_bjc/python/besides-blocks-welcome.topic'),
+    lab2: lab('Recursion with HOFs', 'berkeley_bjc/hofs/hofs-with-recursion.topic'),
     hw: 'Start Thinking about Explore Post'
 };
 
@@ -298,8 +298,8 @@ cs10.week12 = {
     disc: disc('Python'),
     lect1: lect('Python I'),
     lect2: lect('Python II'),
-    lab1: lab('Besides Blocks: Data Structures in Python', 'berkeley_bjc/python/besides-blocks-data-struct.topic', true),
-    lab2: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
+    lab1: lab('Besides Blocks: Welcome to Python', 'berkeley_bjc/python/besides-blocks-welcome.topic'),
+    lab2: lab('Besides Blocks: Data Structures in Python', 'berkeley_bjc/python/besides-blocks-data-struct.topic', true),
     hw: [explorePost, explorePostDoc]
 };
 
@@ -312,7 +312,7 @@ cs10.week13 = {
     lect1: lect('Saving the World with Computing', null, "Kathy Yelick"),
     lect2: lect('Human Computer Interface', null, "Bjoern Hartmann"),
     lab1: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
-    lab2: lab('Recursion with HOFs', 'berkeley_bjc/hofs/hofs-with-recursion.topic'),
+    lab2: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
     disc: disc('TBD'),
     hw: [exploreComments, fProposal]
 };
