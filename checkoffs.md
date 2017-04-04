@@ -163,7 +163,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct? block? Why?
 * What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
 
-**More Self-Check Questions**`
+**More Self-Check Questions**
 
 * Why are constant time algorithms so rare?
 * Why are logarithmic time algorithms sought after?
@@ -172,7 +172,7 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 # Week 5: Lab 8 
 
-## Lab 8: Finch Lab {#lab15}
+## Lab 8: Finch Lab {#lab8}
 
 **Required**
 
@@ -183,7 +183,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 # Week 6: Labs 9 and 10
 
-## Lab 9: Testing Code and HW3 {#lab8}
+## Lab 9: Testing Code and HW3 {#lab9}
 
 **Required**
 
@@ -198,7 +198,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * What tests could you have written for HW2 (Encryptify)?
 * Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s).
 
-## Lab 10: Trees and Fractals Using Recursion {#lab11}
+## Lab 10: Trees and Fractals Using Recursion {#lab10}
 **Required**
 
 * Please show me your “crazy-tree” block.
@@ -217,7 +217,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 # Week 7: Lab 11 and 12
 
-## Lab 11: Recursive Reporters {#lab12}
+## Lab 11: Recursive Reporters {#lab11}
 
 **Required**
 
@@ -232,7 +232,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * Why might we want to write a function recursively instead of iteratively or using a HOF?
 * How might we be able to use recursive reporters to improve runtime?
 
-## Lab 12: Tic-Tac-Toe, Boards {#lab10}
+## Lab 12: Tic-Tac-Toe, Boards {#lab12}
 
 **Required**
 
@@ -272,7 +272,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 # Week 9: Lab 14
 
 
-## Lab 14: Concurrency {#lab9}
+## Lab 14: Concurrency {#lab14}
 
 **Required**
 
@@ -290,7 +290,28 @@ You can get checked off for this lab as long as you show up to lab and work on i
 ---
 # Week 10: Lab 15
 
-## Lab 14: Besides Blocks: Welcome to Python {#lab14}
+## Lab 15: Recursion with HOFs {#lab15}
+
+**Required**
+
+* Show your `ancestors` block for a couple inputs, such as 'a' and 'b'.
+* Show `me and my descendants` of 'j'.
+
+**More Self-Check Questions**
+
+* Show `path home`.
+* Show `generalized path home`.
+* Show `plants (column) (year)`.
+
+---
+# Week 11: Spring Break
+
+
+------
+
+# Week 12: Lab 16 and 17
+
+## Lab 16: Besides Blocks: Welcome to Python {#lab16}
 
 **Required**
 
@@ -306,16 +327,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * What is the difference between the "=", "!=", and "==" python commands?
 * What is the domain and range for the "+" function in python?
 
-
----
-# Week 11: Spring Break
-
-
-------
-
-# Week 12: Lab 16 and 17
-
-## Lab 16: Besides Blocks: Data Structures in Python {#lab16}
+## Lab 17: Besides Blocks: Data Structures in Python {#lab17}
 
 **Required**
 
@@ -330,7 +342,11 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * How do you make a directory, enter a directory, and check what is inside your current directory?
 * How do you define a function in python?
 
-## Lab 17: Besides Blocks: Text Processing in Python {#lab17}
+------
+
+# Week 13: Lab 18
+
+## Lab 18: Besides Blocks: Text Processing in Python {#lab18}
 
 **Required**
 
@@ -345,19 +361,12 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * Complete the remove punctutaion section at the bottom of the Counting Words page.
 * Write the `top_n_words_except` function at the bottom of the Top Words page.
 
-------
-
-# Week 13: Lab 18
-## Lab 18: Recursion with HOFs {#lab17}
-
-**Coming Soon**
-
 
 ------
 
 # Week 14: Lab 19
 
-## Lab 19:The Internet {#lab18}
+## Lab 19:The Internet {#lab19}
 
 **Required**
 
