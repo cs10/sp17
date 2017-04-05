@@ -40,7 +40,7 @@ var hw1Spec         = docs('1ybuatsrUMCI-tHHRPwxUpGoZoGxk_SEiGEArocQtIlI')
     explorePost     = hw('"Explore" Writing Assignment', '4/7', '/discussion_topics/5125383', exploreSpec)
     explorePostDoc  = hw('"Explore" Writing Assignment Document Submission', '4/7', '/assignments/7768712')
     exploreComments = hw('"Explore" Comments', '4/12', '/discussion_topics/5125383')
-    fProposal       = hw('Final Project Proposal', '4/9', 'assignments/7768715') //, finalProjSpec)
+    fProposal       = hw('Final Project Proposal', '4/11', 'assignments/7768715') 
     fMilestone      = hw('Final Project Milestone', '4/21', 'assignments/7768714')
     fProject        = hw('Final Project', '4/28', 'assignments/7768713')
 
@@ -311,8 +311,8 @@ cs10.week13 = {
     ],
     lect1: lect('Saving the World with Computing', null, "Kathy Yelick"),
     lect2: lect('Human Computer Interface', null, "Bjoern Hartmann"),
-    lab1: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
-    lab2: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
+    lab1: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
+    lab2: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
     disc: disc('TBD'),
     hw: [exploreComments, fProposal]
 };
@@ -328,7 +328,7 @@ cs10.week14 = {
     lab1: lab('Final Project Work Session', null, true),
     lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
     lect1: lect('Limits of Computing'),
-    lect2: lect('The Internet'),
+    lect2: lect('The Internet', null, "Steven Traversi, and Yifat Amir"),
     disc: disc('The Internet'),
     hw: fMilestone
 };
