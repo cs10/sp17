@@ -297,7 +297,7 @@ cs10.week12 = {
     ],
     disc: disc('Python'),
     lect1: lect('Python I', 'https://drive.google.com/drive/folders/0B4KuCtIkhB7QbmFTWlhEa25IZHc?usp=sharing'),
-    lect2: lect('Python II'),
+    lect2: lect('Python II', 'https://drive.google.com/drive/folders/0B4KuCtIkhB7QRnFnY0VKNmMyY3M?usp=sharing'),
     lab1: lab('Besides Blocks: Welcome to Python', 'berkeley_bjc/python/besides-blocks-welcome.topic'),
     lab2: lab('Besides Blocks: Data Structures in Python', 'berkeley_bjc/python/besides-blocks-data-struct.topic', true),
     hw: [explorePost, explorePostDoc]
