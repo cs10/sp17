@@ -309,7 +309,7 @@ cs10.week13 = {
         reading('Addicted to Apps', 'http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html?_r=0'),
         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
     ],
-    lect1: lect('Saving the World with Computing', null, "Kathy Yelick"),
+    lect1: lect('Saving the World with Computing', "https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QcUVuaDF1MHhoZFE", "Kathy Yelick"),
     lect2: lect('Human Computer Interface', null, "Bjoern Hartmann"),
     lab1: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
     lab2: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
