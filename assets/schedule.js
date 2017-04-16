@@ -278,8 +278,6 @@ cs10.week11 = {
 //     hw: 'No homework - Study for the Midterm Exam!'
 // };
 
-
-
 // APR 3 - 7
 cs10.week12 = {
     readings: [
@@ -310,7 +308,7 @@ cs10.week13 = {
         reading('CS8 lecture 1', 'https://www.youtube.com/watch?v=69hHbVza7XI&t=27m49s', 'optional')
     ],
     lect1: lect('Saving the World with Computing', "https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QcUVuaDF1MHhoZFE", "Kathy Yelick"),
-    lect2: lect('Human Computer Interface', null, "Bjoern Hartmann"),
+    lect2: lect('Human Computer Interface', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QRUxnRGdfdFV0UUk', "Bjoern Hartmann"),
     lab1: lab('Besides Blocks: Text Processing in Python', 'berkeley_bjc/python/besides-blocks-text-processing.topic'),
     lab2: lab('Project Work Session', null, true), //, 'berkeley_bjc/python/besides-blocks-data.topic'),
     disc: disc('TBD'),
