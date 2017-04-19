@@ -326,7 +326,7 @@ cs10.week14 = {
     lab1: lab('Final Project Work Session', null, true),
     lab2: lab('The Internet', 'berkeley_bjc/areas/internet.topic'),
     lect1: lect('Limits of Computing', 'https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7Qa0Q3eEpaaVA2c3c'),
-    lect2: lect('The Internet', null, "Steven Traversi, and Yifat Amir"),
+    lect2: lect('The Internet', "https://drive.google.com/drive/u/1/folders/0B4KuCtIkhB7QYlU0N1pweUQ1akk", "Steven Traversi, and Yifat Amir"),
     disc: disc('The Internet'),
     hw: fMilestone
 };
