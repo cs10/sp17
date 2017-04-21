@@ -337,7 +337,7 @@ cs10.week15 = {
         reading('A Quantum Leap in Computing?', 'http://www.newyorker.com/tech/elements/a-quantum-leap-in-computing', 'optional')
     ],
     disc: disc('Farewell! Recap and Feedback'),
-    lab1: lab('Project Work Session', null, true),
+    lab1: lab('Project Work Session', null),
     lect1: lect('Alumni Panel'),
     lect2: lect('Conclusion'),
     lab2: lab('In-Lab Final Exam'),
