@@ -355,7 +355,7 @@ cs10.week16 = {
 // MAY 8 - 12
 cs10.week17 = {
     readings: 'No Reading.',
-    lab1: lab('<br><br><div class="exam inner">Final Exam<br><br>Tuesday 5/8<br> TBD <br>TBD</div>'),
+    lab1: lab('<br><br><div class="exam inner">Final Exam<br><br>Tuesday 5/9<br> 8:00am - 11:00am <br>10 Evans</div>'),
     hw: 'Enjoy your Summer Break!'
 };
 cs10.week17.lab1.classes = 'exam';
